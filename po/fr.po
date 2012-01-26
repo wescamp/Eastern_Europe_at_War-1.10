@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: fr\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-28 07:38-0400\n"
-"PO-Revision-Date: 2011-07-16 08:16-0400\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-01-21 01:18+0100\n"
+"Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: none\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,13 @@ msgstr ""
 #. [era]: id=era_eeaw_{EEAW_VERSION}
 #: Eastern_Europe_at_War/EEaW_eras.cfg:5
 msgid "Eastern Europe at War"
-msgstr ""
+msgstr "Guerre en Europe de l’Est"
 
 #. [attacks]: id=nocounter
-#: Eastern_Europe_at_War/abilities.cfg:5 Eastern_Europe_at_War/abilities.cfg:8
+#: Eastern_Europe_at_War/abilities.cfg:5
+#: Eastern_Europe_at_War/abilities.cfg:8
 msgid "no counter-attack"
-msgstr ""
+msgstr "pas de contre-attaque"
 
 #. [attacks]: id=nocounter
 #: Eastern_Europe_at_War/abilities.cfg:7
@@ -29,16 +30,18 @@ msgid ""
 "no counter-attack:\n"
 "The opponent has always a 0% chance to hit, when this unit is attacking."
 msgstr ""
+"pas de contre-attaque :\n"
+"L'adversaire a toujours 0 % de chance d'atteindre sa cible, quand cette unité attaque"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:38
 msgid "heals +12"
-msgstr ""
+msgstr "Soins +12"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:39
 msgid "female^heals +12"
-msgstr ""
+msgstr "Soins +12"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:44
@@ -46,11 +49,14 @@ msgid ""
 "Heals +12:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
 "\n"
-"A unit cared for by this healer may heal up to 12 HP per turn, or stop "
-"poison from taking effect for that turn.\n"
-"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
-"care of a village or a unit that can cure."
+"A unit cared for by this healer may heal up to 12 HP per turn, or stop poison from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the care of a village or a unit that can cure."
 msgstr ""
+"Soins +12 :\n"
+"Permet à cette unité de soigner les unités adjacentes au début de chaque tour.\n"
+"\n"
+"Une unité soignée peut soit regagner jusqu'à 12 points de vie, soit ne pas subir les effets du poison ce tour-ci.\n"
+"Une unité empoisonnée ne peut pas être guérie par un soigneur et devra trouver un village ou une unité qui dispose de la compétence guérison."
 
 #. [resistance]: id=tabor1
 #. [resistance]: id=tabor2
@@ -59,31 +65,34 @@ msgstr ""
 #: Eastern_Europe_at_War/abilities.cfg:76
 #: Eastern_Europe_at_War/abilities.cfg:93
 msgid "defender"
-msgstr ""
+msgstr "défenseur"
 
 #. [resistance]: id=tabor1
 #: Eastern_Europe_at_War/abilities.cfg:61
 msgid ""
 "Defender:\n"
-"Adjacent friendly units receive a +10% bonus to all resistances (up to a "
-"maximum of 70%)."
+"Adjacent friendly units receive a +10% bonus to all resistances (up to a maximum of 70%)."
 msgstr ""
+"Défenseur :\n"
+"Les unités alliées adjacentes reçoivent un bonus de +10 % à toutes les résistances (Jusqu’à un maximum de 70 %)."
 
 #. [resistance]: id=tabor2
 #: Eastern_Europe_at_War/abilities.cfg:78
 msgid ""
 "Defender:\n"
-"Adjacent friendly units receive a +20% bonus to all resistances (up to a "
-"maximum of 70%)."
+"Adjacent friendly units receive a +20% bonus to all resistances (up to a maximum of 70%)."
 msgstr ""
+"Défenseur :\n"
+"Les unités alliées adjacentes reçoivent un bonus de +20 % à toutes les résistances (Jusqu’à un maximum de 70 %)."
 
 #. [resistance]: id=tabor3
 #: Eastern_Europe_at_War/abilities.cfg:95
 msgid ""
 "Defender:\n"
-"Adjacent friendly units receive a +25% bonus to all resistances (up to a "
-"maximum of 70%)."
+"Adjacent friendly units receive a +25% bonus to all resistances (up to a maximum of 70%)."
 msgstr ""
+"Défenseur :\n"
+"Les unités alliées adjacentes reçoivent un bonus de + 25 % à toutes les résistances (Jusqu’à un maximum de 70 %)."
 
 #. [leadership]: id=eeawfear15
 #. [leadership]: id=eeawfear20
@@ -96,37 +105,37 @@ msgstr ""
 #: Eastern_Europe_at_War/abilities.cfg:157
 #: Eastern_Europe_at_War/abilities.cfg:173
 msgid "fear"
-msgstr ""
+msgstr "peur"
 
 #. [leadership]: id=eeawfear15
 #: Eastern_Europe_at_War/abilities.cfg:110
 msgid "Fear makes all enemy units fight worse (-15% for attack)."
-msgstr ""
+msgstr "La peur rend toutes les unités ennemies plus faibles (-15 % pour l'attaque)."
 
 #. [leadership]: id=eeawfear20
 #: Eastern_Europe_at_War/abilities.cfg:126
 msgid "Fear makes all enemy units fight worse (-20% for attack)."
-msgstr ""
+msgstr "La peur rend toutes les unités ennemies plus faibles (-20 % pour l'attaque)."
 
 #. [leadership]: id=eeawfear25
 #: Eastern_Europe_at_War/abilities.cfg:142
 msgid "Fear makes all enemy units fight worse (-25% for attack)."
-msgstr ""
+msgstr "La peur rend toutes les unités ennemies plus faibles (-25 % pour l'attaque)."
 
 #. [leadership]: id=eeawfear30
 #: Eastern_Europe_at_War/abilities.cfg:158
 msgid "Fear makes all enemy units fight worse (-30% for attack)."
-msgstr ""
+msgstr "La peur rend toutes les unités ennemies plus faibles (-30 % pour l'attaque)."
 
 #. [leadership]: id=eeawfear40
 #: Eastern_Europe_at_War/abilities.cfg:174
 msgid "Fear makes all enemy units fight worse (-40% for attack)."
-msgstr ""
+msgstr "La peur rend toutes les unités ennemies plus faibles (-40 % pour l'attaque)."
 
 #. [chance_to_hit]: id=cannonhill
 #: Eastern_Europe_at_War/abilities.cfg:187
 msgid "fire from hills"
-msgstr ""
+msgstr "feu de colline"
 
 #. [chance_to_hit]: id=cannonhill
 #: Eastern_Europe_at_War/abilities.cfg:189
@@ -134,11 +143,13 @@ msgid ""
 "fire from hills:\n"
 "This unit has 60% chance to hit, when it stays on hills."
 msgstr ""
+"feu de colline :\n"
+"Cette unité a toujours 60 % de chance d'atteindre sa cible, quand elle demeure sur les collines."
 
 #. [chance_to_hit]: id=75chance
 #: Eastern_Europe_at_War/abilities.cfg:204
 msgid "crosshair"
-msgstr ""
+msgstr "viseur"
 
 #. [chance_to_hit]: id=75chance
 #: Eastern_Europe_at_War/abilities.cfg:206
@@ -146,11 +157,13 @@ msgid ""
 "crosshair:\n"
 "This unit has 75% chance to hit."
 msgstr ""
+"viseur :\n"
+"Cette unité a toujours 75 % de chance d'atteindre sa cible."
 
 #. [chance_to_hit]: id=75chance
 #: Eastern_Europe_at_War/abilities.cfg:217
 msgid "fireblast:"
-msgstr ""
+msgstr "déflagration :"
 
 #. [chance_to_hit]: id=75chance
 #: Eastern_Europe_at_War/abilities.cfg:219
@@ -158,16 +171,18 @@ msgid ""
 "fireblast:\n"
 "This unit has 80% chance to hit."
 msgstr ""
+"déflagration :\n"
+"Cette unité a toujours 80 % de chance d'atteindre sa cible."
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:232
 msgid "heals +10"
-msgstr ""
+msgstr "Soins +10"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:233
 msgid "female^heals +10"
-msgstr ""
+msgstr "Soins +10"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:238
@@ -175,25 +190,26 @@ msgid ""
 "Heals +10:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
 "\n"
-"A unit cared for by this healer may heal up to 10 HP per turn, or stop "
-"poison from taking effect for that turn.\n"
-"A curer can cure a unit of poison, although that unit will receive no "
-"additional healing on the turn it is cured of the poison."
+"A unit cared for by this healer may heal up to 10 HP per turn, or stop poison from taking effect for that turn.\n"
+"A curer can cure a unit of poison, although that unit will receive no additional healing on the turn it is cured of the poison."
 msgstr ""
+"Soins +10 :\n"
+"Permet à cette unité de soigner les unités adjacentes au début de chaque tour.\n"
+"\n"
+"Une unité soignée peut soit regagner jusqu'à 12 points de vie, soit ne pas subir les effets du poison ce tour-ci.\n"
+"Une unité empoisonnée ne peut pas être guérie par un soigneur et devra trouver un village ou une unité qui dispose de la compétence guérison."
 
 #. [damage]: id=keepkiller
 #: Eastern_Europe_at_War/abilities.cfg:250
 #: Eastern_Europe_at_War/abilities.cfg:251
 msgid "keep killer"
-msgstr ""
+msgstr "donjon tueur"
 
 #. [damage]: id=keepkiller
 #: Eastern_Europe_at_War/abilities.cfg:252
 #: Eastern_Europe_at_War/abilities.cfg:253
-msgid ""
-"keep killer: When this attack is used and hits a target, which stands inside "
-"a keep, then the keep is destroyed."
-msgstr ""
+msgid "keep killer: When this attack is used and hits a target, which stands inside a keep, then the keep is destroyed."
+msgstr "donjon tueur : Lorsque cette attaque est utilisée et frappe une cible, qui ce tient à l'intérieur d'un donjon, le donjon est détruit."
 
 #. [leadership]: id=eeawpope1
 #. [leadership]: id=eeawpope2
@@ -202,31 +218,28 @@ msgstr ""
 #: Eastern_Europe_at_War/abilities.cfg:278
 #: Eastern_Europe_at_War/abilities.cfg:294
 msgid "spiritual leader"
-msgstr ""
+msgstr "leader spirituel"
 
 #. [leadership]: id=eeawpope1
 #: Eastern_Europe_at_War/abilities.cfg:263
-msgid ""
-"Spiritual Leader makes all friendly units fight better (+40% for attack)."
-msgstr ""
+msgid "Spiritual Leader makes all friendly units fight better (+40% for attack)."
+msgstr "Le leader spirituel rend toutes les unités alliées plus fortes (+ 40 % pour l'attaque)."
 
 #. [leadership]: id=eeawpope2
 #: Eastern_Europe_at_War/abilities.cfg:279
-msgid ""
-"Spiritual Leader makes all friendly units fight better (+50% for attack)."
-msgstr ""
+msgid "Spiritual Leader makes all friendly units fight better (+50% for attack)."
+msgstr "Le leader spirituel rend toutes les unités alliées plus fortes (+ 50 % pour l'attaque)."
 
 #. [leadership]: id=eeawpope3
 #: Eastern_Europe_at_War/abilities.cfg:295
-msgid ""
-"Spiritual Leader makes all friendly units fight better (+60% for attack)."
-msgstr ""
+msgid "Spiritual Leader makes all friendly units fight better (+60% for attack)."
+msgstr "Le leader spirituel rend toutes les unités alliées plus fortes (+ 60 % pour l'attaque)."
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:310
 #: Eastern_Europe_at_War/units/Kozacy/znachor-kozacki.cfg:52
 msgid "cures +6"
-msgstr ""
+msgstr "Guérison +6"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/abilities.cfg:315
@@ -234,11 +247,14 @@ msgid ""
 "Cures +6:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
 "\n"
-"A unit cared for by this healer may heal up to 6 HP per turn, or stop poison "
-"from taking effect for that turn.\n"
-"A curer can cure a unit of poison, although that unit will receive no "
-"additional healing on the turn it is cured of the poison."
+"A unit cared for by this healer may heal up to 6 HP per turn, or stop poison from taking effect for that turn.\n"
+"A curer can cure a unit of poison, although that unit will receive no additional healing on the turn it is cured of the poison."
 msgstr ""
+"Guérison + 6 :\n"
+"Permet à cette unité de soigner les unités adjacentes au début de chaque tour.\n"
+"\n"
+"Une unité soignée peut soit regagner jusqu'à 6 points de vie, soit ne pas subir les effets du poison ce tour-ci.\n"
+"Un guérisseur peut guérir une unité empoisonnée, qui ne recevra alors pas de soins supplémentaires."
 
 #. [attacks]: id=noattack
 #. [unit_type]: id=ta Tatarski Bej, race=Tatarzy
@@ -626,202 +642,188 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/hetman-polny.cfg:20
 #: Eastern_Europe_at_War/units/Polacy/hetman-wielki.cfg:21
 msgid "."
-msgstr ""
+msgstr "."
 
 #. [dummy]: id=i8cleave
 #: Eastern_Europe_at_War/abilities.cfg:620
 msgid "wide range"
-msgstr ""
+msgstr "large portée"
 
 #. [dummy]: id=i8cleave
 #: Eastern_Europe_at_War/abilities.cfg:621
-msgid ""
-"wide range: A unit with this ability can hurt units that are adjacent to the "
-"attacker and the defender at the same time."
-msgstr ""
+msgid "wide range: A unit with this ability can hurt units that are adjacent to the attacker and the defender at the same time."
+msgstr "large portée : Une unité avec cette capacité peut blesser les unités qui sont à côté de l'attaquant et du défenseur en même temps."
 
 #. [leadership]: id=eeawartilery
 #: Eastern_Europe_at_War/abilities.cfg:702
 msgid "artilery leader"
-msgstr ""
+msgstr "chef d'artillerie"
 
 #. [leadership]: id=eeawartilery
 #: Eastern_Europe_at_War/abilities.cfg:703
-msgid ""
-"Leader of artilery makes all mechanical units fight better (+50% for attack)."
-msgstr ""
+msgid "Leader of artilery makes all mechanical units fight better (+50% for attack)."
+msgstr "Le chef d'artillerie rend toutes les unités mécaniques plus fortes (+ 50 % pour l'attaque)."
 
 #. [leadership]: id=eeawcavalry
 #: Eastern_Europe_at_War/abilities.cfg:721
 msgid "cavalry leader"
-msgstr ""
+msgstr "chef de cavalerie"
 
 #. [leadership]: id=eeawcavalry
 #: Eastern_Europe_at_War/abilities.cfg:722
-msgid ""
-"Leader of cavalry makes all mounted units fight better (+50% for attack)."
-msgstr ""
+msgid "Leader of cavalry makes all mounted units fight better (+50% for attack)."
+msgstr "Le chef de cavalerie rend toutes les unités montées plus fortes (+ 50 % pour l'attaque)."
 
 #. [leadership]: id=eeawmehterhane
 #: Eastern_Europe_at_War/abilities.cfg:740
 msgid "mehterhane"
-msgstr ""
+msgstr "mehter takımı"
 
 #. [leadership]: id=eeawmehterhane
 #: Eastern_Europe_at_War/abilities.cfg:741
 msgid "Mehterhane makes all units fight better (+10% for attack)."
-msgstr ""
+msgstr "La fanfare rend toutes les unités plus fortes (+ 10 % pour l'attaque)."
 
 #. [multiplayer_side]: id=austriacy, type=au Muszkieter
 #: Eastern_Europe_at_War/factions/austriacy-eeaw.cfg:4
 msgid "Habsburg Monarchy"
-msgstr ""
+msgstr "Monarchie des Habsbourg"
 
 #. [multiplayer_side]: id=kozacy, type=kz Chorazy
 #: Eastern_Europe_at_War/factions/kozacy-eeaw.cfg:4
 msgid "Zaporozhian Cossacks"
-msgstr ""
+msgstr "Cosaques de Zaporogue"
 
 #. [multiplayer_side]: id=polacy, type=pl Chorazy
 #: Eastern_Europe_at_War/factions/polacy-eeaw.cfg:4
 msgid "Polish-Lithuanian Commonwealth"
-msgstr ""
+msgstr "République des Deux Nations Pologne-Lituanie"
 
 #. [multiplayer_side]: id=rosjanie, type=ru Wojewoda
 #: Eastern_Europe_at_War/factions/rosjanie-eeaw.cfg:4
 msgid "Tsardom of Russia"
-msgstr ""
+msgstr "Tsarat de Russie"
 
 #. [multiplayer_side]: id=szwedzi, type=sz Muszkieter
 #: Eastern_Europe_at_War/factions/szwedzi-eeaw.cfg:4
 msgid "Kingdom of Sweden"
-msgstr ""
+msgstr "Royaume de Suède"
 
 #. [multiplayer_side]: id=tatarzy, type=ta Segban
 #: Eastern_Europe_at_War/factions/tatarzy-eeaw.cfg:4
 msgid "Crimean Khanate"
-msgstr ""
+msgstr "Khanat de Crimée"
 
 #. [multiplayer_side]: id=turcy, type=tu Chorazy
 #: Eastern_Europe_at_War/factions/turcy-eeaw.cfg:4
 msgid "Ottoman Empire"
-msgstr ""
+msgstr "Empire Ottoman"
 
 #. [multiplayer]: id=Europa_7g_v8
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:4
 msgid "XVII Eastern Europe 7g v.8"
-msgstr ""
+msgstr "XVII Europe de l’Est 7g v.8"
 
 #. [multiplayer]: id=Europa_7g_v8
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:5
-msgid ""
-"1. Crimean Khanate, 2. Cossacks Hetmanate,  3. Polish-Lithuanian "
-"Commonwelth, 4. Kingdom of Sweden, 5. Tsardom of Russia, 6. Ottoman Empire, "
-"7. Habsburg Monarchy"
-msgstr ""
+msgid "1. Crimean Khanate, 2. Cossacks Hetmanate,  3. Polish-Lithuanian Commonwelth, 4. Kingdom of Sweden, 5. Tsardom of Russia, 6. Ottoman Empire, 7. Habsburg Monarchy"
+msgstr "1. Khanat de Crimée, 2. Hetmanat cosaque, 3. République des Deux Nations Pologne-Lituanie, 4. Royaume de Suède, 5. Tsarat de Russie, 6. Empire Ottoman, 7. Monarchie des Habsbourg"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:26
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:26
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:26
 msgid "Crimea"
-msgstr ""
+msgstr "Crimée"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:38
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:38
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:38
 msgid "Ukraine"
-msgstr ""
+msgstr "Ukraine"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:74
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:51
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:74
 msgid "Sweden"
-msgstr ""
+msgstr "Suède"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:63
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:50
 msgid "Poland"
-msgstr ""
+msgstr "Pologne"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:98
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:77
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:98
 msgid "Russia"
-msgstr ""
+msgstr "Russie"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:110
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:89
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:110
 msgid "Turkey"
-msgstr ""
+msgstr "Turquie"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:122
 #: Eastern_Europe_at_War/scenarios/eng_europa_7g_v8.cfg:102
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:122
 msgid "Austria"
-msgstr ""
+msgstr "Autriche"
 
 #. [multiplayer]: id=Europa_9g_v8
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:4
 msgid "XVII Eastern Europe 9g v.8"
-msgstr ""
+msgstr "XVII Europe de l’Est 9g v.8"
 
 #. [multiplayer]: id=Europa_9g_v8
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:5
-msgid ""
-"1. Crimean Khanate, 2. Cossacks Hetmanate, 3. Electorate of Brandenburg-"
-"Prussia, 4. Polish-Lithuanian Commonwelth,  5. Kingdom of Sweden, 6. Kingdom "
-"of Denmark, 7. Tsardom of Russia, 8. Ottoman Empire, 9. Habsburg Monarchy"
-msgstr ""
+msgid "1. Crimean Khanate, 2. Cossacks Hetmanate, 3. Electorate of Brandenburg-Prussia, 4. Polish-Lithuanian Commonwelth,  5. Kingdom of Sweden, 6. Kingdom of Denmark, 7. Tsardom of Russia, 8. Ottoman Empire, 9. Habsburg Monarchy"
+msgstr "1. Khanat de Crimée, 2. Hetmanat cosaque, 3. Electeur Brandebourg-Prusse, 4. République des Deux Nations Pologne-Lituanie, 5. Royaume de Suède, 6. Royaume du Danemark, 7. Tsarat de Russie, 8. Empire Ottoman, 9. Monarchie des Habsbourg"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:50
 msgid "Prussia"
-msgstr ""
+msgstr "Prusse"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:62
 msgid "Lithuania"
-msgstr ""
+msgstr "Lituanie"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v8.cfg:86
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:86
 msgid "Denmark"
-msgstr ""
+msgstr "Danemark"
 
 #. [multiplayer]: id=Europa_9g_v9
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:4
 msgid "XVII Eastern Europe 9g v.9"
-msgstr ""
+msgstr "XVII Europe de l’Est 9g v.8"
 
 #. [multiplayer]: id=Europa_9g_v9
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:5
-msgid ""
-"1. Crimean Khanate, 2. Cossacks Hetmanate, 3. Polish-Lithuanian "
-"Commonwelth,  4. Livonian Brothers of the Sword, 5. Kingdom of Sweden, 6. "
-"Kingdom of Denmark, 7. Tsardom of Russia, 8. Ottoman Empire, 9. Habsburg "
-"Monarchy"
-msgstr ""
+msgid "1. Crimean Khanate, 2. Cossacks Hetmanate, 3. Polish-Lithuanian Commonwelth,  4. Livonian Brothers of the Sword, 5. Kingdom of Sweden, 6. Kingdom of Denmark, 7. Tsardom of Russia, 8. Ottoman Empire, 9. Habsburg Monarchy"
+msgstr "1. Khanat de Crimée, 2. Hetmanat cosaque, 3. République des Deux Nations Pologne-Lituanie, 4. Chevalier livonien frères de l’épée, 5. Royaume de Suède, 6. Royaume du Danemark, 7. Tsarat de Russie, 8. Empire Ottoman, 9. Monarchie des Habsbourg"
 
 #. [side]
 #: Eastern_Europe_at_War/scenarios/eng_europa_9g_v9.cfg:62
 msgid "Livonia"
-msgstr ""
+msgstr "Livonie"
 
 #. [unit_type]: id=au Armata Bitewna, race=mechanical
 #. [unit_type]: id=sz Armata bitewna, race=mechanical
 #: Eastern_Europe_at_War/units/Austriacy/armata-bitewna.cfg:4
 #: Eastern_Europe_at_War/units/Szwedzi/battle-canon.cfg:4
 msgid "Battle Cannon"
-msgstr ""
+msgstr "Canon de bataille"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -864,7 +866,7 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Szwedzi/royal-reiter.cfg:38
 #: Eastern_Europe_at_War/units/Szwedzi/musketeer-colonel.cfg:40
 msgid "rapier"
-msgstr ""
+msgstr "rapière"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Rosjanie/strzelecpulkownik.cfg:42
@@ -901,7 +903,7 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/zaciezny.cfg:58
 #: Eastern_Europe_at_War/units/Polacy/muszkieter.cfg:39
 msgid "musket"
-msgstr ""
+msgstr "mousquet"
 
 #. [attack]: type=impact
 #. [attack]: type=fire
@@ -924,7 +926,7 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/okret3.cfg:87
 #: Eastern_Europe_at_War/units/Polacy/okret2.cfg:86
 msgid "cannon"
-msgstr ""
+msgstr "canon"
 
 #. [unit_type]: id=au Armata, race=mechanical
 #. [unit_type]: id=sz Armata, race=mechanical
@@ -935,17 +937,17 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Turcy/armata.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/armata.cfg:4
 msgid "Cannon"
-msgstr ""
+msgstr "Cannon"
 
 #. [unit_type]: id=au Austriacki General, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/austriacki-general.cfg:4
 msgid "Austrian General"
-msgstr ""
+msgstr "Général Autrichien"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Austriacy/austriacki-general.cfg:34
 msgid "partisan"
-msgstr ""
+msgstr "partisan"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Rosjanie/metropolita.cfg:42
@@ -976,12 +978,12 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/husarz.cfg:75
 #: Eastern_Europe_at_War/units/Polacy/hetman-polny.cfg:48
 msgid "pistol"
-msgstr ""
+msgstr "pistolet"
 
 #. [unit_type]: id=au Ciezki Pikinier, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/ciezki-pikinier.cfg:4
 msgid "Heavy Pikeman"
-msgstr ""
+msgstr "Piquier Lourd"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Austriacy/pikinier.cfg:37
@@ -992,12 +994,12 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Szwedzi/armoured-pikeman.cfg:48
 #: Eastern_Europe_at_War/units/Szwedzi/recruit.cfg:45
 msgid "pike"
-msgstr ""
+msgstr "piquer"
 
 #. [unit_type]: id=au Dragon, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/dragon.cfg:4
 msgid "Dragoon"
-msgstr ""
+msgstr "Dragon"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Rosjanie/kozakdonski.cfg:51
@@ -1061,29 +1063,29 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/hetman-polny.cfg:30
 #: Eastern_Europe_at_War/units/Polacy/hetman-wielki.cfg:31
 msgid "saber"
-msgstr ""
+msgstr "sabre"
 
 #. [unit_type]: id=au Elitarny Dragon, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/elitarny-dragon.cfg:4
 msgid "Elite Dragoon"
-msgstr ""
+msgstr "Dragon d'élite"
 
 #. [unit_type]: id=au Elitarny Huzar, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/elitarny-huzar.cfg:4
 msgid "Elite Hussar"
-msgstr ""
+msgstr "Hussar d'élite"
 
 #. [unit_type]: id=au Elitarny Muszkieter, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/elitarny-muszkieter.cfg:4
 msgid "Elite Muskeeter"
-msgstr ""
+msgstr "Mousquetaire d'élite"
 
 #. [unit_type]: id=au Felczer, race=Austriacy
 #. [unit_type]: id=pl Felczer, race=Polacy
 #: Eastern_Europe_at_War/units/Austriacy/felczer.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/felczer.cfg:4
 msgid "Medical Orderly"
-msgstr ""
+msgstr "Aide-soignant"
 
 #. [trait]: id=fearless
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:40
@@ -1092,7 +1094,7 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Austriacy/medyk.cfg:25
 #: Eastern_Europe_at_War/units/Austriacy/felczer.cfg:25
 msgid "fearless"
-msgstr ""
+msgstr "intrépide"
 
 #. [trait]: id=fearless
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:41
@@ -1101,7 +1103,7 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Austriacy/medyk.cfg:26
 #: Eastern_Europe_at_War/units/Austriacy/felczer.cfg:26
 msgid "female^fearless"
-msgstr ""
+msgstr "intrépide"
 
 #. [trait]: id=fearless
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:42
@@ -1110,117 +1112,117 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Austriacy/medyk.cfg:27
 #: Eastern_Europe_at_War/units/Austriacy/felczer.cfg:27
 msgid "Fights normally during unfavorable times of day/night"
-msgstr ""
+msgstr "Combat normalement pendant les périodes défavorable jour/nuit"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Austriacy/lekarz.cfg:39
 #: Eastern_Europe_at_War/units/Austriacy/medyk.cfg:38
 #: Eastern_Europe_at_War/units/Austriacy/felczer.cfg:38
 msgid "knife"
-msgstr ""
+msgstr "couteau"
 
 #. [unit_type]: id=au General Kawalerii, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/general-kawalerii.cfg:4
 msgid "Cavalry General"
-msgstr ""
+msgstr "Général de cavalerie"
 
 #. [unit_type]: id=au Grenadier, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/grenadier.cfg:4
 msgid "Grenadier"
-msgstr ""
+msgstr "Grenadier"
 
 #. [attack]: type=fire
 #: Eastern_Europe_at_War/units/Austriacy/krolewski-grenadier.cfg:43
 #: Eastern_Europe_at_War/units/Austriacy/grenadier.cfg:42
 msgid "grenade"
-msgstr ""
+msgstr "grenade"
 
 #. [unit_type]: id=au Grenzer Oficer, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/grenzer-oficer.cfg:4
 msgid "Grenzer Officer"
-msgstr ""
+msgstr "Officier frontalier"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Austriacy/grenzer-weteran.cfg:24
 #: Eastern_Europe_at_War/units/Austriacy/grenzer.cfg:24
 #: Eastern_Europe_at_War/units/Austriacy/grenzer-oficer.cfg:25
 msgid "bayonet"
-msgstr ""
+msgstr "baïonnette"
 
 #. [unit_type]: id=au Grenzer Weteran, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/grenzer-weteran.cfg:4
 msgid "Grenzer Veteran"
-msgstr ""
+msgstr "Vétéran frontalier"
 
 #. [unit_type]: id=au Grenzer, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/grenzer.cfg:4
 msgid "Grenzer"
-msgstr ""
+msgstr "Frontalier"
 
 #. [unit_type]: id=au Haubica, race=mechanical
 #: Eastern_Europe_at_War/units/Austriacy/haubica.cfg:4
 msgid "Howitzer"
-msgstr ""
+msgstr "Obusier"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Austriacy/haubica.cfg:46
 #: Eastern_Europe_at_War/units/Austriacy/mozdzierz.cfg:45
 msgid "mortar"
-msgstr ""
+msgstr "mortier"
 
 #. [unit_type]: id=au Huzar, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/huzar.cfg:4
 msgid "Hussar"
-msgstr ""
+msgstr "Hussard"
 
 #. [unit_type]: id=au Jezdziec Chorwacki, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/jezdziec-chorwacki.cfg:4
 msgid "Croatian Rider"
-msgstr ""
+msgstr "Cavalier croate"
 
 #. [unit_type]: id=au Kolubryna, race=mechanical
 #: Eastern_Europe_at_War/units/Austriacy/kolubryna.cfg:4
 msgid "Culverin"
-msgstr ""
+msgstr "Couleuvrine"
 
 #. [unit_type]: id=au Krolewski Grenadier, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/krolewski-grenadier.cfg:4
 msgid "Royal Grenadier"
-msgstr ""
+msgstr "Grenadier Royal"
 
 #. [unit_type]: id=au Krolewski Pandur, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/krolewski-pandur.cfg:4
 msgid "Royal Pandur"
-msgstr ""
+msgstr "Royal Pandur"
 
 #. [unit_type]: id=au Lekarz, race=Austriacy
 #. [unit_type]: id=pl Lekarz, race=Polacy
 #: Eastern_Europe_at_War/units/Austriacy/lekarz.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/lekarz.cfg:4
 msgid "Doctor"
-msgstr ""
+msgstr "Docteur"
 
 #. [unit_type]: id=au Lekki Jezdziec, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/lekki-jezdziec.cfg:4
 msgid "Light Cavalryman"
-msgstr ""
+msgstr "Cavalier Léger"
 
 #. [unit_type]: id=au Medyk, race=Austriacy
 #. [unit_type]: id=pl Medyk, race=Polacy
 #: Eastern_Europe_at_War/units/Austriacy/medyk.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/medyk.cfg:4
 msgid "Medic"
-msgstr ""
+msgstr "Toubib"
 
 #. [unit_type]: id=au Mistrz Artyleryjski, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/mistrz-artyleryjski.cfg:4
 msgid "Artilery Master"
-msgstr ""
+msgstr "Maître Artilleur"
 
 #. [unit_type]: id=au Mozdzierz, race=mechanical
 #: Eastern_Europe_at_War/units/Austriacy/mozdzierz.cfg:4
 msgid "Mortar"
-msgstr ""
+msgstr "Mortier"
 
 #. [unit_type]: id=au Muszkieter, race=Austriacy
 #. [unit_type]: id=sz Muszkieter, race=Szwedzi
@@ -1229,14 +1231,14 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Szwedzi/musketeer.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/muszkieter.cfg:4
 msgid "Musketeer"
-msgstr ""
+msgstr "Mousquetaire"
 
 #. [unit_type]: id=au Oficer Piechoty, race=Austriacy
 #. [unit_type]: id=sz Oficer piechoty, race=Szwedzi
 #: Eastern_Europe_at_War/units/Austriacy/oficer-piechoty.cfg:4
 #: Eastern_Europe_at_War/units/Szwedzi/infantry-officer.cfg:4
 msgid "Infantry Officer"
-msgstr ""
+msgstr "Officier d'infanterie"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Austriacy/oficer-piechoty.cfg:33
@@ -1244,35 +1246,35 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Szwedzi/general-artylerii.cfg:43
 #: Eastern_Europe_at_War/units/Szwedzi/infantry-officer.cfg:42
 msgid "partisane"
-msgstr ""
+msgstr "partisane"
 
 #. [unit_type]: id=au Organki, race=mechanical
 #: Eastern_Europe_at_War/units/Austriacy/organki.cfg:4
 msgid "Organ Gun"
-msgstr ""
+msgstr "Ribaudequin"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Austriacy/organki.cfg:25
 #: Eastern_Europe_at_War/units/Austriacy/organki2.cfg:26
 msgid "barrels"
-msgstr ""
+msgstr "barils"
 
 #. [unit_type]: id=au Organki2, race=mechanical
 #: Eastern_Europe_at_War/units/Austriacy/organki2.cfg:4
 msgid "Improved Organ Gun"
-msgstr ""
+msgstr "Ribaudequin amélioré"
 
 #. [unit_type]: id=au Pandur, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/pandur.cfg:4
 msgid "Pandur"
-msgstr ""
+msgstr "Pandur"
 
 #. [unit_type]: id=au Pikinier, race=Austriacy
 #. [unit_type]: id=sz Pikinier, race=Szwedzi
 #: Eastern_Europe_at_War/units/Austriacy/pikinier.cfg:4
 #: Eastern_Europe_at_War/units/Szwedzi/pikeman.cfg:4
 msgid "Pikeman"
-msgstr ""
+msgstr "Piquier"
 
 #. [unit_type]: id=ru Poborowy, race=Rosjanie
 #. [unit_type]: id=au Poborowy, race=Austriacy
@@ -1281,12 +1283,12 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Austriacy/poborowy.cfg:4
 #: Eastern_Europe_at_War/units/Szwedzi/recruit.cfg:4
 msgid "Recruit"
-msgstr ""
+msgstr "Recrue"
 
 #. [unit_type]: id=au Porucznik Huzar, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/porucznik-huzar.cfg:4
 msgid "Colonel Hussar"
-msgstr ""
+msgstr "Colonel Hussard"
 
 #. [unit_type]: id=ru Strzelec, race=Rosjanie
 #. [unit_type]: id=au Strzelec, race=Austriacy
@@ -1297,22 +1299,22 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Szwedzi/shooter.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/strzelec.cfg:4
 msgid "Shooter"
-msgstr ""
+msgstr "Tireur"
 
 #. [unit_type]: id=au Towarzysz Chorwacki, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/towarzysz-chorwacki.cfg:4
 msgid "Croatian Companion"
-msgstr ""
+msgstr "Compagnon croate"
 
 #. [unit_type]: id=au Towarzysz, race=Austriacy
 #: Eastern_Europe_at_War/units/Austriacy/towarzysz.cfg:4
 msgid "Cavalry Companion"
-msgstr ""
+msgstr "Compagnon Cavalier"
 
 #. [unit_type]: id=kz Ataman, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/ataman.cfg:4
 msgid "Ataman"
-msgstr ""
+msgstr "Ataman"
 
 #. [attack]: type=impact
 #. [attack]: type=blade
@@ -1329,77 +1331,77 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/hetman-polny.cfg:39
 #: Eastern_Europe_at_War/units/Polacy/hetman-wielki.cfg:40
 msgid "mace"
-msgstr ""
+msgstr "massue"
 
 #. [unit_type]: id=kz Chorazy, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:4
 msgid "Zaporozhian Standard-Bearer"
-msgstr ""
+msgstr "Porte Drapeau Zaporogue"
 
 #. [advancement]: id=ostra_szabla
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:33
 msgid "+5 melee damage"
-msgstr ""
+msgstr "+5 dégât au corps à corps"
 
 #. [advancement]: id=szermierz
 #. [advancement]: id=zaciekly
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:53
 #: Eastern_Europe_at_War/units/Kozacy/wlocznik.cfg:109
 msgid "+1 melee strike"
-msgstr ""
+msgstr "+1 attaque au corps à corps"
 
 #. [advancement]: id=drugi_pistolet
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:73
 msgid "+1 ranged strike"
-msgstr ""
+msgstr "+1 frappe à distance"
 
 #. [advancement]: id=odporny
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:93
 msgid "the unit has no negative resistances"
-msgstr ""
+msgstr "l'unité n'a pas de résistance négative"
 
 #. [advancement]: id=kozackie_zdrowie
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:120
 msgid "Max HP bonus +10"
-msgstr ""
+msgstr "Bonus de PV max +10"
 
 #. [advancement]: id=piechur
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:140
 msgid "+1 movement point"
-msgstr ""
+msgstr "+1 point de mouvement"
 
 #. [advancement]: id=strzelec
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:159
 msgid "marksman"
-msgstr ""
+msgstr "tireur d'élite"
 
 #. [advancement]: id=zawadiaka
 #: Eastern_Europe_at_War/units/Kozacy/chorazy.cfg:182
 msgid "gives abilities: 'ambush' and 'fear'"
-msgstr ""
+msgstr "donne des capacités : « embuscade » et « peur »"
 
 #. [unit_type]: id=kz Wielka Czajka, race=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:4
 msgid "Great Chaika"
-msgstr ""
+msgstr "Grand Tchaïka"
 
 #. [trait]: id=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:29
 #: Eastern_Europe_at_War/units/Kozacy/czajka.cfg:25
 msgid "mechanical"
-msgstr ""
+msgstr "mécanique"
 
 #. [trait]: id=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:30
 #: Eastern_Europe_at_War/units/Kozacy/czajka.cfg:26
 msgid "female^mechanical"
-msgstr ""
+msgstr "mécanique"
 
 #. [trait]: id=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:31
 #: Eastern_Europe_at_War/units/Kozacy/czajka.cfg:27
 msgid "Immune to drain, poison and plague"
-msgstr ""
+msgstr "Immunisé contre le poison, la peste et le drain de vie"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Kozacy/tabor-wielki.cfg:35
@@ -1408,38 +1410,40 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Kozacy/tabor-duzy.cfg:34
 #: Eastern_Europe_at_War/units/Kozacy/tabor.cfg:34
 msgid "rifles"
-msgstr ""
+msgstr "fusils"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Kozacy/czajka-wielka.cfg:118
 msgid "falconets"
-msgstr ""
+msgstr "Fauconneaux"
 
 #. [unit_type]: id=kz zCzajka, race=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/czajka.cfg:4
 msgid "Chaika"
-msgstr ""
+msgstr "Tchaïka"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Kozacy/czajka.cfg:117
 msgid "falconet"
-msgstr ""
+msgstr "Fauconneau"
 
 #. [unit_type]: id=kz Czern, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/czern.cfg:4
+#, fuzzy
 msgid "Czern"
-msgstr ""
+msgstr "Basané"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Kozacy/sotnik.cfg:26
 #: Eastern_Europe_at_War/units/Kozacy/czern.cfg:25
 msgid "flail"
-msgstr ""
+msgstr "fléau"
 
 #. [unit_type]: id=kz Esaul, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/esaul.cfg:4
+#, fuzzy
 msgid "Sich Esaul"
-msgstr ""
+msgstr "Sich Esaul"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Rosjanie/kozakdonski.cfg:41
@@ -1455,7 +1459,7 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/husarz.cfg:42
 #: Eastern_Europe_at_War/units/Polacy/husarski-adept.cfg:42
 msgid "lance"
-msgstr ""
+msgstr "lance"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Tatarzy/tatarski-bej.cfg:49
@@ -1502,7 +1506,7 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/zagonczyk.cfg:54
 #: Eastern_Europe_at_War/units/Polacy/pancerny-towarzysz.cfg:53
 msgid "bow"
-msgstr ""
+msgstr "arc"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Tatarzy/tatar.cfg:47
@@ -1510,103 +1514,106 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Tatarzy/ordyniec-elitarny.cfg:48
 #: Eastern_Europe_at_War/units/Kozacy/esaul.cfg:62
 #: Eastern_Europe_at_War/units/Kozacy/lupiezca.cfg:59
+#, fuzzy
 msgid "arkan"
-msgstr ""
+msgstr "arkan"
 
 #. [unit_type]: id=kz Hetman, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/hetman.cfg:4
 msgid "Zaporozhian Hetman"
-msgstr ""
+msgstr "Hetman Zaporogue"
 
 #. [unit_type]: id=kz Kozak, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/kozak.cfg:4
 msgid "Cossack"
-msgstr ""
+msgstr "Cosaque"
 
 #. [unit_type]: id=kz Raider, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/lupiezca.cfg:4
 msgid "Cossack Raider"
-msgstr ""
+msgstr "Pilleur cosaque"
 
 #. [attack]: type=fire
 #: Eastern_Europe_at_War/units/Kozacy/lupiezca.cfg:50
 msgid "torch"
-msgstr ""
+msgstr "torche"
 
 #. [unit_type]: id=kz Molojec, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/molojec.cfg:4
+#, fuzzy
 msgid "Moloyec"
-msgstr ""
+msgstr "Moloyec"
 
 #. [unit_type]: id=kz Peasant, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/peasant.cfg:4
 msgid "Ukrainian Peasant"
-msgstr ""
+msgstr "Paysan Ukrainien"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Rosjanie/peasant.cfg:32
 #: Eastern_Europe_at_War/units/Kozacy/peasant.cfg:25
 msgid "pitchfork"
-msgstr ""
+msgstr "fourche"
 
 #. [unit_type]: id=kz Pulkownik, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/pulkownik.cfg:4
 msgid "Zaporozhian Colonel"
-msgstr ""
+msgstr "Colonel Zaporogue"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Kozacy/pulkownik.cfg:43
 #: Eastern_Europe_at_War/units/Kozacy/setnik.cfg:42
 #: Eastern_Europe_at_War/units/Kozacy/zaporoski.cfg:37
 msgid "rifle"
-msgstr ""
+msgstr "fusil"
 
 #. [unit_type]: id=kz Setnik, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/setnik.cfg:4
 msgid "Zaporozhian Centurion"
-msgstr ""
+msgstr "Centurion Zarporogue"
 
 #. [unit_type]: id=kz Siczowy, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/siczowy.cfg:4
+#, fuzzy
 msgid "Sich Cossack"
-msgstr ""
+msgstr "Cosaque Sich"
 
 #. [unit_type]: id=kz Sotnik, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/sotnik.cfg:4
 msgid "Centurion"
-msgstr ""
+msgstr "Centurion"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Kozacy/sotnik.cfg:35
 msgid "berserk"
-msgstr ""
+msgstr "fou furieux"
 
 #. [unit_type]: id=kz Duzy Tabor, race=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/tabor-duzy.cfg:4
 msgid "Big Tabor"
-msgstr ""
+msgstr "Gros Goumiers"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Kozacy/tabor-wielki.cfg:26
 #: Eastern_Europe_at_War/units/Kozacy/tabor-duzy.cfg:25
 #: Eastern_Europe_at_War/units/Kozacy/tabor.cfg:25
 msgid "spears"
-msgstr ""
+msgstr "pointes"
 
 #. [unit_type]: id=kz Wielki Tabor, race=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/tabor-wielki.cfg:4
 msgid "Great Tabor"
-msgstr ""
+msgstr "Noble Goumiers"
 
 #. [unit_type]: id=kz Tabor, race=mechanical
 #: Eastern_Europe_at_War/units/Kozacy/tabor.cfg:4
 msgid "Tabor"
-msgstr ""
+msgstr "Goumiers"
 
 #. [unit_type]: id=kz Watazka, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/watazka.cfg:4
 msgid "Cossack Bandit"
-msgstr ""
+msgstr "Bandit Cosaque"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Kozacy/watazka.cfg:35
@@ -1618,34 +1625,34 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/wojownik-litewski.cfg:34
 #: Eastern_Europe_at_War/units/Polacy/hetman-wielki.cfg:57
 msgid "pistols"
-msgstr ""
+msgstr "pistolets"
 
 #. [unit_type]: id=ru Wlocznik, race=Rosjanie
 #. [unit_type]: id=kz Wlocznik, race=Kozacy
 #: Eastern_Europe_at_War/units/Rosjanie/wlocznik.cfg:4
 #: Eastern_Europe_at_War/units/Kozacy/wlocznik.cfg:4
 msgid "Spearman"
-msgstr ""
+msgstr "Lancier"
 
 #. [advancement]: id=zdrowy_chlop
 #: Eastern_Europe_at_War/units/Kozacy/wlocznik.cfg:26
 msgid "Max HP bonus +15"
-msgstr ""
+msgstr "Bonus de PV max +15"
 
 #. [advancement]: id=gotowy
 #: Eastern_Europe_at_War/units/Kozacy/wlocznik.cfg:46
 msgid "first strike"
-msgstr ""
+msgstr "première attaque"
 
 #. [advancement]: id=niespodzianka
 #: Eastern_Europe_at_War/units/Kozacy/wlocznik.cfg:68
 msgid "ambush"
-msgstr ""
+msgstr "embuscade"
 
 #. [advancement]: id=lepsze_ostrze
 #: Eastern_Europe_at_War/units/Kozacy/wlocznik.cfg:89
 msgid "+3 melee damage"
-msgstr ""
+msgstr "+3 dégât au corps à corps"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Rosjanie/poborowy.cfg:32
@@ -1658,28 +1665,28 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Turcy/dej-wielki.cfg:42
 #: Eastern_Europe_at_War/units/Turcy/fanatyk.cfg:47
 msgid "spear"
-msgstr ""
+msgstr "pointe"
 
 #. [unit_type]: id=kz Zaporoski, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/zaporoski.cfg:4
 msgid "Zaporozhian Walker"
-msgstr ""
+msgstr "Marcheur Zarporogue"
 
 #. [unit_type]: id=kz Kozacki Znachor, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/znachor-kozacki.cfg:4
 msgid "Cossack Healer"
-msgstr ""
+msgstr "Guérisseur Cosaque"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Kozacy/znachor.cfg:34
 #: Eastern_Europe_at_War/units/Kozacy/znachor-kozacki.cfg:35
 msgid "throwing knife"
-msgstr ""
+msgstr "lancer un couteau"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/units/Kozacy/znachor-kozacki.cfg:53
 msgid "female^cures +6"
-msgstr ""
+msgstr "guérison + 6"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/units/Kozacy/znachor-kozacki.cfg:58
@@ -1687,25 +1694,29 @@ msgid ""
 "Cures +4:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
 "\n"
-"A unit cared for by this healer may heal up to 6 HP per turn, or stop poison "
-"from taking effect for that turn.\n"
+"A unit cared for by this healer may heal up to 6 HP per turn, or stop poison from taking effect for that turn.\n"
 "A poisoned unit is cured."
 msgstr ""
+"Guérison + 4 :\n"
+"Permet à cette unité de soigner les unités adjacentes au début de chaque tour.\n"
+"\n"
+"Une unité soignée peut soit regagner jusqu'à 4 points de vie, soit ne pas subir les effets du poison ce tour-ci.\n"
+"Un guérisseur peut guérir une unité empoisonnée, qui ne recevra alors pas de soins supplémentaires."
 
 #. [unit_type]: id=kz Znachor, race=Kozacy
 #: Eastern_Europe_at_War/units/Kozacy/znachor.cfg:4
 msgid "Healer"
-msgstr ""
+msgstr "Guérisseur"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/units/Kozacy/znachor.cfg:48
 msgid "cures +4"
-msgstr ""
+msgstr "Guérisseur +4"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/units/Kozacy/znachor.cfg:49
 msgid "female^cures +4"
-msgstr ""
+msgstr "Guérisseur +4"
 
 #. [heals]: id=healing
 #: Eastern_Europe_at_War/units/Kozacy/znachor.cfg:54
@@ -1713,10 +1724,14 @@ msgid ""
 "Cures +4:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
 "\n"
-"A unit cared for by this healer may heal up to 4 HP per turn, or stop poison "
-"from taking effect for that turn.\n"
+"A unit cared for by this healer may heal up to 4 HP per turn, or stop poison from taking effect for that turn.\n"
 "A poisoned unit is cured."
 msgstr ""
+"Guérison + 4 :\n"
+"Permet à cette unité de soigner les unités adjacentes au début de chaque tour.\n"
+"\n"
+"Une unité soignée peut soit regagner jusqu'à 4 points de vie, soit ne pas subir les effets du poison ce tour-ci.\n"
+"Un guérisseur peut guérir une unité empoisonnée, qui ne recevra alors pas de soins supplémentaires."
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Rosjanie/armata.cfg:35
@@ -1724,24 +1739,24 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/armata.cfg:35
 #: Eastern_Europe_at_War/units/Polacy/armatka.cfg:34
 msgid "shot"
-msgstr ""
+msgstr "tir"
 
 #. [unit_type]: id=ru Armatka, race=mechanical
 #. [unit_type]: id=pl Armatka, race=mechanical
 #: Eastern_Europe_at_War/units/Rosjanie/armatka.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/armatka.cfg:4
 msgid "Small Cannon"
-msgstr ""
+msgstr "Petit Canon"
 
 #. [unit_type]: id=pl Wielki Chorazy Krolewski, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/chorazy-wielki.cfg:4
 msgid "Grand Royal Standard-Bearer"
-msgstr ""
+msgstr "Noble Porte Drapeau Royal"
 
 #. [unit_type]: id=pl Chorazy, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/chorazy.cfg:4
 msgid "Standard-Bearer"
-msgstr ""
+msgstr "Porte Drapeau"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -1753,55 +1768,59 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/medyk.cfg:33
 #: Eastern_Europe_at_War/units/Polacy/felczer.cfg:33
 msgid "dagger"
-msgstr ""
+msgstr "dague"
 
 #. [unit_type]: id=pl Hetman Polny Koronny, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/hetman-polny.cfg:4
 msgid "Field Hetman"
-msgstr ""
+msgstr "Hetman de Campagne"
 
 #. [unit_type]: id=pl Hetman Wielki Koronny, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/hetman-wielki.cfg:4
 msgid "Grand Hetman"
-msgstr ""
+msgstr "Noble Hetman"
 
 #. [unit_type]: id=pl Husarski Adept, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/husarski-adept.cfg:4
+#, fuzzy
 msgid "Young Winged Hussar"
-msgstr ""
+msgstr "Jeune Hussard Ailé"
 
 #. [unit_type]: id=pl Elitarny Husarz, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/husarz-elitarny.cfg:4
+#, fuzzy
 msgid "Elite Winged Hussar"
-msgstr ""
+msgstr "Hussard d'élite Ailé"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Polacy/husarz-elitarny.cfg:68
 #: Eastern_Europe_at_War/units/Polacy/husarz.cfg:66
+#, fuzzy
 msgid "horseman's pick"
-msgstr ""
+msgstr "Cavalier Nadziak"
 
 #. [unit_type]: id=pl Husarz, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/husarz.cfg:4
+#, fuzzy
 msgid "Winged Hussar"
-msgstr ""
+msgstr "Hussard Ailé"
 
 #. [unit_type]: id=pl Infamis, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/infamis.cfg:4
 msgid "Infamis"
-msgstr ""
+msgstr "Infamis"
 
 #. [unit_type]: id=pl Konny Dragon, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/konny-dragon.cfg:4
 msgid "Mounted Dragoon"
-msgstr ""
+msgstr "Cavalier Dragon"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Polacy/konny-dragon.cfg:34
 #: Eastern_Europe_at_War/units/Polacy/litewski-dragon.cfg:33
 #: Eastern_Europe_at_War/units/Polacy/wielki-dragon.cfg:34
 msgid "sword"
-msgstr ""
+msgstr "épée"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Tatarzy/segban-elitarny.cfg:44
@@ -1811,163 +1830,169 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Polacy/litewski-dragon.cfg:42
 #: Eastern_Europe_at_War/units/Polacy/wielki-dragon.cfg:52
 msgid "shield bash"
-msgstr ""
+msgstr "bouclier cogneur"
 
 #. [unit_type]: id=pl Lisowczyk, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/lisowczyk.cfg:4
+#, fuzzy
 msgid "Lisovianus"
-msgstr ""
+msgstr "Lisovianus"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Polacy/lisowczyk.cfg:43
 #: Eastern_Europe_at_War/units/Polacy/strzelec.cfg:38
 #: Eastern_Europe_at_War/units/Polacy/wybraniecki2.cfg:41
 #: Eastern_Europe_at_War/units/Polacy/wybraniecki.cfg:40
+#, fuzzy
 msgid "arguebus"
-msgstr ""
+msgstr "arquebus"
 
 #. [unit_type]: id=pl Litewski Dragon, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/litewski-dragon.cfg:4
 msgid "Lithuanian Dragoon"
-msgstr ""
+msgstr "Dragon Lituanien"
 
 #. [unit_type]: id=pl Magnat Litewski, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/magnat-litewski.cfg:4
 msgid "Lithuanian Magnate"
-msgstr ""
+msgstr "Noble Lituanien"
 
 #. [unit_type]: id=zz zOkret1, race=mechanical
 #: Eastern_Europe_at_War/units/Polacy/okret.cfg:4
 msgid "Ship I"
-msgstr ""
+msgstr "Navire I"
 
 #. [unit_type]: id=zz zOkret2, race=mechanical
 #: Eastern_Europe_at_War/units/Polacy/okret2.cfg:4
 msgid "Ship II"
-msgstr ""
+msgstr "Navire II"
 
 #. [unit_type]: id=zz zOkret3, race=mechanical
 #: Eastern_Europe_at_War/units/Polacy/okret3.cfg:4
 msgid "Ship III"
-msgstr ""
+msgstr "Navire III"
 
 #. [unit_type]: id=pl Pancerny Towarzysz, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/pancerny-towarzysz.cfg:4
 msgid "Armoured Companion"
-msgstr ""
+msgstr "Companion Cuirassé"
 
 #. [unit_type]: id=pl Pancerny, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/pancerny.cfg:4
 msgid "Armoured"
-msgstr ""
+msgstr "Cuirassé"
 
 #. [unit_type]: id=pl Peasant, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/peasant.cfg:4
 msgid "Polish Peasant"
-msgstr ""
+msgstr "Paysan Polonais"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Polacy/peasant.cfg:31
 msgid "scythe"
-msgstr ""
+msgstr "faucher"
 
 #. [unit_type]: id=pl Szlachcic, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/szlachcic.cfg:4
 msgid "Polish Nobleman"
-msgstr ""
+msgstr "Noble Polonais"
 
 #. [unit_type]: id=z_szSzpital Polowy, race=mechanical
 #. [unit_type]: id=zSzpital Polowy, race=mechanical
 #: Eastern_Europe_at_War/units/Szwedzi/szpital-polowy.cfg:4
 #: Eastern_Europe_at_War/units/Polacy/szpital-polowy.cfg:4
 msgid "Field Hospital"
-msgstr ""
+msgstr "Hôpital de Campagne"
 
 #. [unit_type]: id=pl Wielki Dragon, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/wielki-dragon.cfg:4
 msgid "Grand Dragoon"
-msgstr ""
+msgstr "Noble Dragon"
 
 #. [unit_type]: id=pl Wojownik Litewski, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/wojownik-litewski.cfg:4
 msgid "Lithuanian Warrior"
-msgstr ""
+msgstr "Guerrier Lituanien"
 
 #. [unit_type]: id=pl Wybraniecki, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/wybraniecki.cfg:4
+#, fuzzy
 msgid "Chosen Infantryman"
-msgstr ""
+msgstr "Fantassin Elu"
 
 #. [unit_type]: id=pl Wybraniecki2, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/wybraniecki2.cfg:4
+#, fuzzy
 msgid "Older Chosen Infantryman"
-msgstr ""
+msgstr "Ancien Fantassin Elu"
 
 #. [unit_type]: id=sz Najemnik
 #. [unit_type]: id=pl Zaciezny, race=Polacy
 #: Eastern_Europe_at_War/units/Szwedzi/najemnik.cfg:7
 #: Eastern_Europe_at_War/units/Polacy/zaciezny.cfg:4
 msgid "Mercenary"
-msgstr ""
+msgstr "Mercenaire"
 
 #. [unit_type]: id=pl Zagonczyk, race=Polacy
 #: Eastern_Europe_at_War/units/Polacy/zagonczyk.cfg:4
+#, fuzzy
 msgid "Zagonczyk"
-msgstr ""
+msgstr "Zagonczyk"
 
 #. [unit_type]: id=ru Armata, race=mechanical
 #: Eastern_Europe_at_War/units/Rosjanie/armata.cfg:4
 msgid "Field Cannon"
-msgstr ""
+msgstr "Canon de Campagne"
 
 #. [unit_type]: id=ru Ataman Donski, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/atamandonski.cfg:4
 msgid "Don Ataman"
-msgstr ""
+msgstr "Ataman du Don"
 
 #. [unit_type]: id=ru Banita, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/banita.cfg:4
 msgid "Exile"
-msgstr ""
+msgstr "Exiler"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Rosjanie/pustelnik.cfg:33
 #: Eastern_Europe_at_War/units/Rosjanie/banita.cfg:32
 msgid "club"
-msgstr ""
+msgstr "matraquer"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Rosjanie/pustelnik.cfg:42
 #: Eastern_Europe_at_War/units/Rosjanie/banita.cfg:41
 msgid "fists"
-msgstr ""
+msgstr "empoigner"
 
 #. [unit_type]: id=ru Batiuszka, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/batiuszka.cfg:4
+#, fuzzy
 msgid "Batiushka"
-msgstr ""
+msgstr "Batiushka"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Rosjanie/metropolita.cfg:33
 #: Eastern_Europe_at_War/units/Rosjanie/biskup.cfg:32
 #: Eastern_Europe_at_War/units/Rosjanie/batiuszka.cfg:32
 msgid "staff"
-msgstr ""
+msgstr "bâton "
 
 #. [unit_type]: id=ru Biskup, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/biskup.cfg:4
 msgid "Patriarch"
-msgstr ""
+msgstr "Patriarche"
 
 #. [unit_type]: id=ru Bojar, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/bojar.cfg:4
 msgid "Boyar"
-msgstr ""
+msgstr "Boyard"
 
 #. [unit_type]: id=ru Dowodca, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/dowodca.cfg:4
 msgid "Peasant Commander"
-msgstr ""
+msgstr "Commandant Paysan"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -1976,95 +2001,98 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Turcy/mamluk-wielki.cfg:43
 #: Eastern_Europe_at_War/units/Turcy/mamluk-pieszy.cfg:42
 msgid "axe"
-msgstr ""
+msgstr "hache"
 
 #. [unit_type]: id=ru Kniaz, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/kniaz.cfg:4
 msgid "Knyaz"
-msgstr ""
+msgstr "Knyaz"
 
 #. [unit_type]: id=ru Kozak Donski, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/kozakdonski.cfg:4
 msgid "Don Cossack"
-msgstr ""
+msgstr "Cosaque du Don"
 
 #. [unit_type]: id=ru Ksiaze, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/ksiaze.cfg:4
 msgid "Russian Duke"
-msgstr ""
+msgstr "Duc Russe"
 
 #. [unit_type]: id=ru Molojec Donski, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/malojecdonski.cfg:4
+#, fuzzy
 msgid "Don Moloyec"
-msgstr ""
+msgstr "Moloyec du Don"
 
 #. [unit_type]: id=ru Metropolita, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/metropolita.cfg:4
 msgid "Russian Patriarch"
-msgstr ""
+msgstr "Patriarche Russe"
 
 #. [unit_type]: id=ru Peasant, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/peasant.cfg:4
 msgid "Russian Peasant"
-msgstr ""
+msgstr "Paysan Russe"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Rosjanie/peasant.cfg:41
 #: Eastern_Europe_at_War/units/Rosjanie/powstaniec.cfg:42
 msgid "sharp stone"
-msgstr ""
+msgstr "pierre tranchante"
 
 #. [unit_type]: id=ru Powstaniec, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/powstaniec.cfg:4
 msgid "Insurgent"
-msgstr ""
+msgstr "Insurgé"
 
 #. [unit_type]: id=ru Pustelnik, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/pustelnik.cfg:4
 msgid "Hermit"
-msgstr ""
+msgstr "Ermite"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Rosjanie/strzelecpulkownik.cfg:33
 #: Eastern_Europe_at_War/units/Rosjanie/strzelec.cfg:32
 #: Eastern_Europe_at_War/units/Rosjanie/strzelecstarszy.cfg:32
 msgid "bardiche"
-msgstr ""
+msgstr "bardiche"
 
 #. [unit_type]: id=ru Strzelec Pulkownik, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/strzelecpulkownik.cfg:4
+#, fuzzy
 msgid "Colonel Shooter"
-msgstr ""
+msgstr "Colonel tireur"
 
 #. [unit_type]: id=ru Strzelec Starszy, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/strzelecstarszy.cfg:4
+#, fuzzy
 msgid "Shooter of Moscow"
-msgstr ""
+msgstr "Tireur de Moscou"
 
 #. [unit_type]: id=ru Szlachcic, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/szlachcic.cfg:4
 msgid "Russian Nobleman"
-msgstr ""
+msgstr "Noble Russe"
 
 #. [unit_type]: id=ru Wlocznik Ciezki, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/wlocznikciezki.cfg:4
 msgid "Heavy Spearman"
-msgstr ""
+msgstr "Lancien Lourd"
 
 #. [unit_type]: id=ru Wojewoda, race=Rosjanie
 #: Eastern_Europe_at_War/units/Rosjanie/wojewoda.cfg:4
 msgid "Voivode"
-msgstr ""
+msgstr "Voïvode"
 
 #. [unit_type]: id=sz Ciezki pikinier, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/armoured-pikeman.cfg:4
 msgid "Armoured Pikeman"
-msgstr ""
+msgstr "Piquier Cuirassé"
 
 #. [unit_type]: id=sz Okret wojenny, race=mechanical
 #: Eastern_Europe_at_War/units/Szwedzi/battleship.cfg:4
 msgid "Battleship"
-msgstr ""
+msgstr "Navire de guerre"
 
 #. [attack]: type=impact
 #: Eastern_Europe_at_War/units/Szwedzi/battleship.cfg:102
@@ -2072,87 +2100,87 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Turcy/galera.cfg:91
 #: Eastern_Europe_at_War/units/Turcy/galeota.cfg:93
 msgid "ram"
-msgstr ""
+msgstr "défoncer"
 
 #. [unit_type]: id=sz Galeon, race=mechanical
 #: Eastern_Europe_at_War/units/Szwedzi/galleon.cfg:4
 msgid "Galleon"
-msgstr ""
+msgstr "Galion"
 
 #. [unit_type]: id=sz General artylerii, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/general-artylerii.cfg:4
 msgid "Artilery General"
-msgstr ""
+msgstr "Général d'Artillerie"
 
 #. [unit_type]: id=sz Ciezki Rajtar, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/heavy-reiter.cfg:4
 msgid "Heavy Reiter"
-msgstr ""
+msgstr "Reître Lourd"
 
 #. [unit_type]: id=sz Pulkownik muszkieterow, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/musketeer-colonel.cfg:4
 msgid "Musketeer Colonel"
-msgstr ""
+msgstr "Colonel Mousquetaire"
 
 #. [unit_type]: id=sz Peasant, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/peasant.cfg:4
 msgid "Swedish Peasant"
-msgstr ""
+msgstr "Paysan Suédois"
 
 #. [unit_type]: id=sz Rajtar, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/reiter.cfg:4
 msgid "Reiter"
-msgstr ""
+msgstr "Reître"
 
 #. [unit_type]: id=sz Ratownik, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/rescuer.cfg:4
 msgid "Rescuer"
-msgstr ""
+msgstr "Libérateur"
 
 #. [unit_type]: id=sz Kolubryna Krolewska, race=mechanical
 #: Eastern_Europe_at_War/units/Szwedzi/royal-culverin.cfg:4
 msgid "Royal Culverin"
-msgstr ""
+msgstr "Royal Couleuvrine"
 
 #. [unit_type]: id=sz Krolewski Rajtar, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/royal-reiter.cfg:4
 msgid "Royal Reiter"
-msgstr ""
+msgstr "Reître Royal"
 
 #. [unit_type]: id=sz zOkret Liniowy, race=mechanical
 #: Eastern_Europe_at_War/units/Szwedzi/ship-of-the-line.cfg:4
 msgid "Ship of the Line"
-msgstr ""
+msgstr "Vaisseau de ligne"
 
 #. [unit_type]: id=sz Dzialo obleznicze, race=mechanical
 #: Eastern_Europe_at_War/units/Szwedzi/siege-cannon.cfg:4
 msgid "Siege Cannon"
-msgstr ""
+msgstr "Canon de Siège"
 
 #. [unit_type]: id=sz Chirurg, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/surgeon.cfg:4
 msgid "Surgeon"
-msgstr ""
+msgstr "Chirurgien"
 
 #. [unit_type]: id=sz Szwedzki general, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/swedish-general.cfg:4
 msgid "Swedish General"
-msgstr ""
+msgstr "Général Suédois"
 
 #. [unit_type]: id=sz Szwedzki medyk, race=Szwedzi
 #: Eastern_Europe_at_War/units/Szwedzi/swedish-medic.cfg:4
 msgid "Swedish Medic"
-msgstr ""
+msgstr "Médecin Suédois"
 
 #. [unit_type]: id=sz Weteran
 #: Eastern_Europe_at_War/units/Szwedzi/weteran.cfg:7
 msgid "Veteran"
-msgstr ""
+msgstr "Vétéran"
 
 #. [unit_type]: id=ta Chan Krymski, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/chan-krymski.cfg:4
 msgid "Crimean Khan"
-msgstr ""
+msgstr "Khan de Crimée"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Tatarzy/tatarski-bej.cfg:31
@@ -2188,28 +2216,28 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Turcy/mamluk-konny.cfg:28
 #: Eastern_Europe_at_War/units/Turcy/mamluk-woloski.cfg:29
 msgid "scimitar"
-msgstr ""
+msgstr "cimeterre"
 
 #. [unit_type]: id=ta Cyrulik, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/cyrulik.cfg:4
 msgid "Tatar Medic"
-msgstr ""
+msgstr "Médecin Tatar"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Tatarzy/cyrulik.cfg:41
 #: Eastern_Europe_at_War/units/Tatarzy/znachor.cfg:40
 msgid "poisoned knife"
-msgstr ""
+msgstr "couteau empoisonné"
 
 #. [unit_type]: id=ta Gwardzista, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/gwardzista.cfg:4
 msgid "Khan's Guardman"
-msgstr ""
+msgstr "Garde du Khan"
 
 #. [unit_type]: id=ta zLodz, race=mechanical
 #: Eastern_Europe_at_War/units/Tatarzy/lodz.cfg:4
 msgid "Tatar Boat"
-msgstr ""
+msgstr "Bateau Tatar"
 
 #. [attack]: type=fire
 #: Eastern_Europe_at_War/units/Tatarzy/strzelec.cfg:55
@@ -2219,152 +2247,159 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Tatarzy/lucznik.cfg:55
 #: Eastern_Europe_at_War/units/Tatarzy/prom.cfg:103
 msgid "fire arrows"
-msgstr ""
+msgstr "flèches de feu"
 
 #. [unit_type]: id=ta Lucznik, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/lucznik.cfg:4
 msgid "Tatar Bowman"
-msgstr ""
+msgstr "Archer Tatar"
 
 #. [unit_type]: id=ta Elitarny Ordyniec, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/ordyniec-elitarny.cfg:4
+#, fuzzy
 msgid "Elite Horde Man"
-msgstr ""
+msgstr "Membre d'élite de la horde"
 
 #. [unit_type]: id=ta Ordyniec, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/ordyniec.cfg:4
+#, fuzzy
 msgid "Horde Man"
-msgstr ""
+msgstr "Membre de la horde"
 
 #. [unit_type]: id=ta Oskrzydlacz, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/oskrzydlacz.cfg:4
+#, fuzzy
 msgid "Flanker Scout"
-msgstr ""
+msgstr "Ailier Scout"
 
 #. [unit_type]: id=ta zProm, race=mechanical
 #: Eastern_Europe_at_War/units/Tatarzy/prom.cfg:4
 msgid "Ferryboat I"
-msgstr ""
+msgstr "Ferry-boat I"
 
 #. [unit_type]: id=ta zProm2, race=mechanical
 #: Eastern_Europe_at_War/units/Tatarzy/prom2.cfg:4
 msgid "Ferryboat II"
-msgstr ""
+msgstr "Ferry-boat II"
 
 #. [unit_type]: id=ta Przyboczny, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/przyboczny.cfg:4
 msgid "Bey's Life Guard"
-msgstr ""
+msgstr "Garde du corps du pacha"
 
 #. [unit_type]: id=ta Elitarny Segban, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/segban-elitarny.cfg:4
+#, fuzzy
 msgid "Elite Segban"
-msgstr ""
+msgstr "Segban d'élite"
 
 #. [unit_type]: id=ta Segban, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/segban.cfg:4
+#, fuzzy
 msgid "Segban"
-msgstr ""
+msgstr "Segban"
 
 #. [unit_type]: id=ta Straznik, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/straznik.cfg:4
 msgid "Guard"
-msgstr ""
+msgstr "Garde"
 
 #. [unit_type]: id=ta Elitarny Strzelec, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/strzelec-elitarny.cfg:4
+#, fuzzy
 msgid "Elite Sharpshooter"
-msgstr ""
+msgstr "Tireur d'élite"
 
 #. [unit_type]: id=ta Strzelec, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/strzelec.cfg:4
+#, fuzzy
 msgid "Tatar Shooter"
-msgstr ""
+msgstr "Tatar tireur"
 
 #. [unit_type]: id=ta Tatar Krymski, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/tatar-krymski.cfg:4
 msgid "Crimean Tatar"
-msgstr ""
+msgstr "Tatar de Crimée"
 
 #. [unit_type]: id=ta Tatar, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/tatar.cfg:4
 msgid "Tatar"
-msgstr ""
+msgstr "Tatar"
 
 #. [unit_type]: id=ta Tatar, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/tatar.cfg:20
-msgid ""
-"Pospolity wojownik stepowy, Tatar rodem z chanskiego Krymu, konno walczacy. "
-"Od malego z bronia obeznany, szermierka, strzelectwem, arkanem. Setki jemu "
-"podobnych po jasyr wyruszaja, by kosztownosci i uznanie wsrod mozniejszych "
-"zdobyc. Na chyzych koniach mkna przez stepy z Orda, by palic, grabic i "
-"mordowac, tradycji tejze od przeszlo wielu setek lat nie uczyniono zadosc."
-msgstr ""
+msgid "Pospolity wojownik stepowy, Tatar rodem z chanskiego Krymu, konno walczacy. Od malego z bronia obeznany, szermierka, strzelectwem, arkanem. Setki jemu podobnych po jasyr wyruszaja, by kosztownosci i uznanie wsrod mozniejszych zdobyc. Na chyzych koniach mkna przez stepy z Orda, by palic, grabic i mordowac, tradycji tejze od przeszlo wielu setek lat nie uczyniono zadosc."
+msgstr "Pospolity wojownik stepowy, Tatar rodem z chanskiego Krymu, konno walczacy. Od malego z bronia obeznany, szermierka, strzelectwem, arkanem. Setki jemu podobnych po jasyr wyruszaja, by kosztownosci i uznanie wsrod mozniejszych zdobyc. Na chyzych koniach mkna przez stepy z Orda, by palic, grabic i mordowac, tradycji tejze od przeszlo wielu setek lat nie uczyniono zadosc."
 
 #. [unit_type]: id=ta Tatarski Bej, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/tatarski-bej.cfg:4
 msgid "Tatar Bey"
-msgstr ""
+msgstr "Pacha Tatar"
 
 #. [unit_type]: id=ta Murza, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/tatarski-murza.cfg:4
+#, fuzzy
 msgid "Tatar Murza"
-msgstr ""
+msgstr "Tatar Murza"
 
 #. [unit_type]: id=ta Znachor, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/znachor.cfg:4
 msgid "Tatar Healer"
-msgstr ""
+msgstr "Guérisseur Tatar"
 
 #. [unit_type]: id=ta Zwiadowca Segbanow, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/zwiadowca-segbanow.cfg:4
+#, fuzzy
 msgid "Segban Scout"
-msgstr ""
+msgstr "Scout Segban"
 
 #. [unit_type]: id=ta Zwiadowca, race=Tatarzy
 #: Eastern_Europe_at_War/units/Tatarzy/zwiadowca.cfg:4
 msgid "Tatar Scout"
-msgstr ""
+msgstr "Scout Tatar"
 
 #. [unit_type]: id=tu Akinij Zwiadowca, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/akinij-zwiadowca.cfg:4
+#, fuzzy
 msgid "Akinji Scout"
-msgstr ""
+msgstr "Scout Akinji"
 
 #. [unit_type]: id=tu Akinij, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/akinij.cfg:4
+#, fuzzy
 msgid "Akinji"
-msgstr ""
+msgstr "Akinji"
 
 #. [unit_type]: id=tu Ciezka Armata, race=mechanical
 #: Eastern_Europe_at_War/units/Turcy/armata-ciezka.cfg:4
 msgid "Heavy Cannon"
-msgstr ""
+msgstr "Canon Lourd"
 
 #. [unit_type]: id=tu Bej, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/bej.cfg:4
+#, fuzzy
 msgid "Boluk"
-msgstr ""
+msgstr "Boluk"
 
 #. [unit_type]: id=tu Boluk, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/boluk.cfg:4
 msgid "Sanjakbey"
-msgstr ""
+msgstr "Pacha sandjaks"
 
 #. [unit_type]: id=tu Wielki Chorazy, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/chorazy-wielki.cfg:4
 msgid "Grand Standard-Bearer of Prophet"
-msgstr ""
+msgstr "Noble Porte Drapeau du Prophète"
 
 #. [unit_type]: id=tu Chorazy, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/chorazy.cfg:4
 msgid "Standard-Bearer of Prophet"
-msgstr ""
+msgstr "Porte Drapeau du Prophète"
 
 #. [unit_type]: id=tu Wielki Dej, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/dej-wielki.cfg:4
 msgid "Grand Janissary Aga"
-msgstr ""
+msgstr "Noble Janissaire Agha"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Turcy/pasza.cfg:34
@@ -2373,47 +2408,48 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Turcy/dej-wielki.cfg:33
 #: Eastern_Europe_at_War/units/Turcy/fanatyk.cfg:34
 msgid "yatagan"
-msgstr ""
+msgstr "Yatagan"
 
 #. [unit_type]: id=tu Dej, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/dej.cfg:4
 msgid "Janissary Aga"
-msgstr ""
+msgstr "Janissaire Agha"
 
 #. [unit_type]: id=tu Fanatyk, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/fanatyk.cfg:4
 msgid "Janissary Fanatic"
-msgstr ""
+msgstr "Janissaire Fanatique"
 
 #. [unit_type]: id=tu zFusta, race=mechanical
 #: Eastern_Europe_at_War/units/Turcy/fusta.cfg:4
 msgid "Fusta"
-msgstr ""
+msgstr "Fuste"
 
 #. [unit_type]: id=tu Galeota, race=mechanical
 #: Eastern_Europe_at_War/units/Turcy/galeota.cfg:4
 msgid "Galiot"
-msgstr ""
+msgstr "Galiote"
 
 #. [unit_type]: id=tu Galera, race=mechanical
 #: Eastern_Europe_at_War/units/Turcy/galera.cfg:4
 msgid "Gallley"
-msgstr ""
+msgstr "Galère"
 
 #. [attack]: type=pierce
 #: Eastern_Europe_at_War/units/Turcy/galera.cfg:112
 msgid "muskets"
-msgstr ""
+msgstr "mousquets"
 
 #. [unit_type]: id=tu Janczar, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/janczar.cfg:4
 msgid "Janissary"
-msgstr ""
+msgstr "Janissaire"
 
 #. [unit_type]: id=tu Strzelec, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/janissary-shooter.cfg:4
+#, fuzzy
 msgid "Janissary Shooter"
-msgstr ""
+msgstr "Janissaire tireur"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Turcy/mehterane-commander.cfg:34
@@ -2422,291 +2458,239 @@ msgstr ""
 #: Eastern_Europe_at_War/units/Turcy/mehterane.cfg:33
 #: Eastern_Europe_at_War/units/Turcy/janissary-shooter.cfg:45
 msgid "poignard"
-msgstr ""
+msgstr "poignard"
 
 #. [unit_type]: id=tu Strzelec2, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/janissary-veteran.cfg:4
 msgid "Janissary Veteran"
-msgstr ""
+msgstr "Vétéran Janissaire"
 
 #. [unit_type]: id=tu Konny Mamluk, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mamluk-konny.cfg:4
 msgid "Mounted Mamluk"
-msgstr ""
+msgstr "Cavalier Mamelouk"
 
 #. [unit_type]: id=tu Pieszy Mamluk, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mamluk-pieszy.cfg:4
 msgid "Pedestrian Mamluk"
-msgstr ""
+msgstr "Piéton Mamelouk"
 
 #. [unit_type]: id=tu Wielki Mamluk Egipski, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mamluk-wielki.cfg:4
 msgid "Grand Egyptian Mamluk"
-msgstr ""
+msgstr "Noble Mamelouk Egyptien"
 
 #. [unit_type]: id=tu Wielki Mamluk Woloski, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mamluk-woloski.cfg:4
 msgid "Grand Vlach Mamluk"
-msgstr ""
+msgstr "Noble Valaque Mamelouk"
 
 #. [unit_type]: id=tu Mamluk, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mamluk.cfg:4
 msgid "Mamluk"
-msgstr ""
+msgstr "Mamelouk"
 
 #. [unit_type]: id=tu Mehterane Commander, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mehterane-commander.cfg:4
 msgid "Mehterane Commander"
-msgstr ""
+msgstr "Commandant Mehter takımı"
 
 #. [unit_type]: id=tu Mehterane, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mehterane.cfg:4
 msgid "Mehterane"
-msgstr ""
+msgstr "Mehter takımı"
 
 #. [unit_type]: id=tu Mehterhane, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/mehterhane.cfg:4
 msgid "Mehterhane"
-msgstr ""
+msgstr "Mehter takımı"
 
 #. [unit_type]: id=tu Pasza, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/pasza.cfg:4
+#, fuzzy
 msgid "Dey"
-msgstr ""
+msgstr "Dey"
 
 #. [unit_type]: id=tu Slave, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/slave.cfg:4
 msgid "Slave"
-msgstr ""
+msgstr "Esclave"
 
 #. [attack]: type=blade
 #: Eastern_Europe_at_War/units/Turcy/slave.cfg:41
 msgid "long knife"
-msgstr ""
+msgstr "long couteau"
 
 #. [unit_type]: id=tu Spahis, race=Turcy
 #: Eastern_Europe_at_War/units/Turcy/spahis.cfg:4
 msgid "Sipahi"
-msgstr ""
+msgstr "Sipahi"
 
 #. [race]: id=Turcy, description=
 #: Eastern_Europe_at_War/units/units.cfg:4
 msgid "race^Turek"
-msgstr ""
+msgstr "Turcs"
 
 #. [race]: id=Turcy, description=
 #: Eastern_Europe_at_War/units/units.cfg:5
 msgid "race+female^Turka"
-msgstr ""
+msgstr "Turcs"
 
 #. [race]: id=Turcy, description=
 #: Eastern_Europe_at_War/units/units.cfg:6
 msgid "race^Turks"
-msgstr ""
+msgstr "Turcs"
 
 #. [race]: id=Turcy, description=
 #: Eastern_Europe_at_War/units/units.cfg:10
-msgid ""
-"Celal,Cemal,Cem,Fatih,Ferhan,Feridun,Mahmut,Murat,Mustafa,Mehmet,Melih,Ali,"
-"Adem,Ahmet,Altan,Aytunc,Bilgehan,Barys,Ozkan,Osman,Orhan,Ismet,Ibrahim,"
-"Ismail,Hakan,Kemal,Kenan,Kamil,Selami,Sener,Rafet,Tahir,Yasar,Yasin,Yusuf,"
-"Emre,Gokhan,Alp,Altun,Aydin,Aydogan,Aytash,Baibars,Bairak,Batur,Boga,Bora,"
-"Demir,Efendi,Erol,Tarkan"
-msgstr ""
+msgid "Celal,Cemal,Cem,Fatih,Ferhan,Feridun,Mahmut,Murat,Mustafa,Mehmet,Melih,Ali,Adem,Ahmet,Altan,Aytunc,Bilgehan,Barys,Ozkan,Osman,Orhan,Ismet,Ibrahim,Ismail,Hakan,Kemal,Kenan,Kamil,Selami,Sener,Rafet,Tahir,Yasar,Yasin,Yusuf,Emre,Gokhan,Alp,Altun,Aydin,Aydogan,Aytash,Baibars,Bairak,Batur,Boga,Bora,Demir,Efendi,Erol,Tarkan"
+msgstr "Celal,Cemal,Cem,Fatih,Ferhan,Feridun,Mahmut,Murat,Mustafa,Mehmet,Melih,Ali,Adem,Ahmet,Altan,Aytunc,Bilgehan,Barys,Ozkan,Osman,Orhan,Ismet,Ibrahim,Ismail,Hakan,Kemal,Kenan,Kamil,Selami,Sener,Rafet,Tahir,Yasar,Yasin,Yusuf,Emre,Gokhan,Alp,Altun,Aydin,Aydogan,Aytash,Baibars,Bairak,Batur,Boga,Bora,Demir,Efendi,Erol,Tarkan"
 
 #. [race]: id=Turcy, description=
 #: Eastern_Europe_at_War/units/units.cfg:11
-msgid ""
-"Celal,Cemal,Cem,Fatih,Ferhan,Feridun,Mahmut,Murat,Mustafa,Mehmet,Melih,Ali,"
-"Adem,Ahmet,Altan,Aytunc,Bilgehan,Barys,Ozkan,Osman,Orhan,Ismet,Ibrahim,"
-"Ismail,Hakan,Kemal,Kenan,Kamil,Selami,Sener,Rafet,Tahir,Yasar,Yasin,Yusuf,"
-"Emre,Gokhan"
-msgstr ""
+msgid "Celal,Cemal,Cem,Fatih,Ferhan,Feridun,Mahmut,Murat,Mustafa,Mehmet,Melih,Ali,Adem,Ahmet,Altan,Aytunc,Bilgehan,Barys,Ozkan,Osman,Orhan,Ismet,Ibrahim,Ismail,Hakan,Kemal,Kenan,Kamil,Selami,Sener,Rafet,Tahir,Yasar,Yasin,Yusuf,Emre,Gokhan"
+msgstr "Celal,Cemal,Cem,Fatih,Ferhan,Feridun,Mahmut,Murat,Mustafa,Mehmet,Melih,Ali,Adem,Ahmet,Altan,Aytunc,Bilgehan,Barys,Ozkan,Osman,Orhan,Ismet,Ibrahim,Ismail,Hakan,Kemal,Kenan,Kamil,Selami,Sener,Rafet,Tahir,Yasar,Yasin,Yusuf,Emre,Gokhan"
 
 #. [race]: id=Polacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:16
 msgid "race^Pole"
-msgstr ""
+msgstr "Polonais"
 
 #. [race]: id=Polacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:17
 msgid "race+female^Polka"
-msgstr ""
+msgstr "Polonaise"
 
 #. [race]: id=Polacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:18
 msgid "race^Poles"
-msgstr ""
+msgstr "Polonais"
 
 #. [race]: id=Polacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:22
-msgid ""
-"Boleslaw,Bozydar,Boguslaw,Broslaw,Dobroslaw,Gniewomir,Jaroslaw,Kazimierz,"
-"Lechoslaw,Lubomir,Lutomir,Mieczyslaw,Mscislaw,Wojciech,Zawisza,Zbyslaw,"
-"Zdzislaw,Antoni,Adam,Jan,Mateusz,Bartlomiej,Maciej,Juliusz,Mikolaj,Tomasz,"
-"Bogdan,Kacper,Krystian,Bogumil,Bytomir,Krzysztof,Piotr,Lukasz,Zbigniew,"
-"Aivaras,Algis,Andrus,Antanas,Gedeminas,Gintaras,Jonas,Juozas,Vytautas,"
-"Nerijus,Evaldas,Saulius"
-msgstr ""
+msgid "Boleslaw,Bozydar,Boguslaw,Broslaw,Dobroslaw,Gniewomir,Jaroslaw,Kazimierz,Lechoslaw,Lubomir,Lutomir,Mieczyslaw,Mscislaw,Wojciech,Zawisza,Zbyslaw,Zdzislaw,Antoni,Adam,Jan,Mateusz,Bartlomiej,Maciej,Juliusz,Mikolaj,Tomasz,Bogdan,Kacper,Krystian,Bogumil,Bytomir,Krzysztof,Piotr,Lukasz,Zbigniew,Aivaras,Algis,Andrus,Antanas,Gedeminas,Gintaras,Jonas,Juozas,Vytautas,Nerijus,Evaldas,Saulius"
+msgstr "Boleslaw,Bozydar,Boguslaw,Broslaw,Dobroslaw,Gniewomir,Jaroslaw,Kazimierz,Lechoslaw,Lubomir,Lutomir,Mieczyslaw,Mscislaw,Wojciech,Zawisza,Zbyslaw,Zdzislaw,Antoni,Adam,Jan,Mateusz,Bartlomiej,Maciej,Juliusz,Mikolaj,Tomasz,Bogdan,Kacper,Krystian,Bogumil,Bytomir,Krzysztof,Piotr,Lukasz,Zbigniew,Aivaras,Algis,Andrus,Antanas,Gedeminas,Gintaras,Jonas,Juozas,Vytautas,Nerijus,Evaldas,Saulius"
 
 #. [race]: id=Polacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:23
-msgid ""
-"Boleslaw,Bozydar,Boguslaw,Broslaw,Ciecierad,Cieszimir,Dobroslaw,Gniewomir,"
-"Jaroslaw,Kazimierz,Lechoslaw,Lubomir,Lutomir,Mieczyslaw,Milobor,Mscibor,"
-"Mscislaw,Pomscibor,Radowuj,Rzedzimir,Samomir,Trzebor,Ubyslaw,Unierad,"
-"Uniemysl,Witomysl,Wojciech,Wolislaw,Wyszemir,Wyslaw,Zawisza,Zbyslaw,Zdzislaw"
-msgstr ""
+msgid "Boleslaw,Bozydar,Boguslaw,Broslaw,Ciecierad,Cieszimir,Dobroslaw,Gniewomir,Jaroslaw,Kazimierz,Lechoslaw,Lubomir,Lutomir,Mieczyslaw,Milobor,Mscibor,Mscislaw,Pomscibor,Radowuj,Rzedzimir,Samomir,Trzebor,Ubyslaw,Unierad,Uniemysl,Witomysl,Wojciech,Wolislaw,Wyszemir,Wyslaw,Zawisza,Zbyslaw,Zdzislaw"
+msgstr "Boleslaw,Bozydar,Boguslaw,Broslaw,Ciecierad,Cieszimir,Dobroslaw,Gniewomir,Jaroslaw,Kazimierz,Lechoslaw,Lubomir,Lutomir,Mieczyslaw,Milobor,Mscibor,Mscislaw,Pomscibor,Radowuj,Rzedzimir,Samomir,Trzebor,Ubyslaw,Unierad,Uniemysl,Witomysl,Wojciech,Wolislaw,Wyszemir,Wyslaw,Zawisza,Zbyslaw,Zdzislaw"
 
 #. [race]: id=Kozacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:28
 msgid "race^Cossack"
-msgstr ""
+msgstr "Cosaque"
 
 #. [race]: id=Kozacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:29
 msgid "race+female^Kozaczka"
-msgstr ""
+msgstr "Cosaques"
 
 #. [race]: id=Kozacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:30
 msgid "race^Cossacks"
-msgstr ""
+msgstr "Cosaques"
 
 #. [race]: id=Kozacy, description=
 #. [race]: id=Rosjanie, description=
 #: Eastern_Europe_at_War/units/units.cfg:34
 #: Eastern_Europe_at_War/units/units.cfg:35
 #: Eastern_Europe_at_War/units/units.cfg:71
-msgid ""
-"Andrij,Antem,Bogdan,Dymitr,Gnat,Giorgij,Iwan,Cyryl,Lew,Oleg,Oleksandr,Roman,"
-"Stanislaw,Vadyn,Vladislaw,Volodimir,Jan,Jurij"
-msgstr ""
+msgid "Andrij,Antem,Bogdan,Dymitr,Gnat,Giorgij,Iwan,Cyryl,Lew,Oleg,Oleksandr,Roman,Stanislaw,Vadyn,Vladislaw,Volodimir,Jan,Jurij"
+msgstr "Andrij,Antem,Bogdan,Dymitr,Gnat,Giorgij,Iwan,Cyryl,Lew,Oleg,Oleksandr,Roman,Stanislaw,Vadyn,Vladislaw,Volodimir,Jan,Jurij"
 
 #. [race]: id=Tatarzy, description=
 #: Eastern_Europe_at_War/units/units.cfg:40
 msgid "race^Tatar"
-msgstr ""
+msgstr "Tatar"
 
 #. [race]: id=Tatarzy, description=
 #: Eastern_Europe_at_War/units/units.cfg:41
 msgid "race+female^Tatarka"
-msgstr ""
+msgstr "Tatar"
 
 #. [race]: id=Tatarzy, description=
 #: Eastern_Europe_at_War/units/units.cfg:42
 msgid "race^Tatars"
-msgstr ""
+msgstr "Tatars"
 
 #. [race]: id=Tatarzy, description=
 #: Eastern_Europe_at_War/units/units.cfg:46
-msgid ""
-"Baithansaikhan,Bat,Bataar,Batukhan,Bold,Chuulun,Kushi,Naaranbatar,Sukhbatar,"
-"Sukh,Karim,Selim,Osman,Ilfak,Rinat,Musa,Galim,Aglikamal,Alyparslan,Ilshat,"
-"Tuigun,Ilgiz"
-msgstr ""
+msgid "Baithansaikhan,Bat,Bataar,Batukhan,Bold,Chuulun,Kushi,Naaranbatar,Sukhbatar,Sukh,Karim,Selim,Osman,Ilfak,Rinat,Musa,Galim,Aglikamal,Alyparslan,Ilshat,Tuigun,Ilgiz"
+msgstr "Baithansaikhan,Bat,Bataar,Batukhan,Bold,Chuulun,Kushi,Naaranbatar,Sukhbatar,Sukh,Karim,Selim,Osman,Ilfak,Rinat,Musa,Galim,Aglikamal,Alyparslan,Ilshat,Tuigun,Ilgiz"
 
 #. [race]: id=Tatarzy, description=
 #: Eastern_Europe_at_War/units/units.cfg:47
-msgid ""
-"Baithansaikhan,Bat,Bataar,Batukhan,Bold,Chuulun,Kushi,Naaranbatar,Sukhbatar,"
-"Sukh"
-msgstr ""
+msgid "Baithansaikhan,Bat,Bataar,Batukhan,Bold,Chuulun,Kushi,Naaranbatar,Sukhbatar,Sukh"
+msgstr "Baithansaikhan,Bat,Bataar,Batukhan,Bold,Chuulun,Kushi,Naaranbatar,Sukhbatar,Sukh"
 
 #. [race]: id=Szwedzi, description=
 #: Eastern_Europe_at_War/units/units.cfg:52
 msgid "race^Swede"
-msgstr ""
+msgstr "Suédois"
 
 #. [race]: id=Szwedzi, description=
 #: Eastern_Europe_at_War/units/units.cfg:53
 msgid "race+female^Szwedka"
-msgstr ""
+msgstr "Suédoise"
 
 #. [race]: id=Szwedzi, description=
 #: Eastern_Europe_at_War/units/units.cfg:54
 msgid "race^Swedes"
-msgstr ""
+msgstr "Suédois"
 
 #. [race]: id=Szwedzi, description=
 #: Eastern_Europe_at_War/units/units.cfg:58
-msgid ""
-"Alexander,Anders,Ake,Berk,Bjorn,Christian,Erik,Finn,Georg,Gustav,Herman,"
-"Jakob,Jonatan,Klemens,Mikael,Olle,Oskar,Patrik,Petter,Rudolf,Sigvard,Sten,"
-"Sven,Thomas,Ulrik,Victor,Aaron,Acke,Albert,Alfred,Alfons,Alrik,Ansgar,Arne,"
-"Arnold,Arthur,Arvid,August,Axel,Asbjörn,Bernt,Bertil,Bjarne,Bosse,Börje,"
-"Calle,Carl,Crister,Ebbe,Einar,Erling,Eskil,Eugen,Evert,Enok,Enar,Elov,Elof,"
-"Folke,Frej,Fridtjof,Frans,Felix,Gottfrid,Gotthard,Greger,Göran,Gunnar,Halvar,"
-"Hampus,Hans,Hakon,Hendrik,Henning,Helmer,Harald,Inge,Ingemar,Ingolf,Ingvar,"
-"Isak,Ivar,Jan,Jarl,Jerker,Joel,Justus,Joseph,Jörgen,Kjell,Knut,Knud,"
-"Konstantin,Lasse,Ludvig,Lukas,Lauritz,Lars,Magnus,Mattis,Marcus,Manfred,"
-"Mikkel,Malkolm,Nils,Olaf,Olav,Olle,Oluf,Otto,Ove,Orvar,Peder,Pontus,Poul,"
-"Ragnar,Roald,Rasmus,Rurik,Rutger,Samson,Saul,Set,Sören,Sigismund,Sigmund,"
-"Tage,Tor,Tomas,Thor,Thorbjörn,Torvald,Torkel,Tore,Theodor,Urbanm Ulf,Vidar,"
-"Valfrid,Vincent,Yngwe,Örjan"
-msgstr ""
+msgid "Alexander,Anders,Ake,Berk,Bjorn,Christian,Erik,Finn,Georg,Gustav,Herman,Jakob,Jonatan,Klemens,Mikael,Olle,Oskar,Patrik,Petter,Rudolf,Sigvard,Sten,Sven,Thomas,Ulrik,Victor,Aaron,Acke,Albert,Alfred,Alfons,Alrik,Ansgar,Arne,Arnold,Arthur,Arvid,August,Axel,Asbjörn,Bernt,Bertil,Bjarne,Bosse,Börje,Calle,Carl,Crister,Ebbe,Einar,Erling,Eskil,Eugen,Evert,Enok,Enar,Elov,Elof,Folke,Frej,Fridtjof,Frans,Felix,Gottfrid,Gotthard,Greger,Göran,Gunnar,Halvar,Hampus,Hans,Hakon,Hendrik,Henning,Helmer,Harald,Inge,Ingemar,Ingolf,Ingvar,Isak,Ivar,Jan,Jarl,Jerker,Joel,Justus,Joseph,Jörgen,Kjell,Knut,Knud,Konstantin,Lasse,Ludvig,Lukas,Lauritz,Lars,Magnus,Mattis,Marcus,Manfred,Mikkel,Malkolm,Nils,Olaf,Olav,Olle,Oluf,Otto,Ove,Orvar,Peder,Pontus,Poul,Ragnar,Roald,Rasmus,Rurik,Rutger,Samson,Saul,Set,Sören,Sigismund,Sigmund,Tage,Tor,Tomas,Thor,Thorbjörn,Torvald,Torkel,Tore,Theodor,Urbanm Ulf,Vidar,Valfrid,Vincent,Yngwe,Örjan"
+msgstr "Alexander,Anders,Ake,Berk,Bjorn,Christian,Erik,Finn,Georg,Gustav,Herman,Jakob,Jonatan,Klemens,Mikael,Olle,Oskar,Patrik,Petter,Rudolf,Sigvard,Sten,Sven,Thomas,Ulrik,Victor,Aaron,Acke,Albert,Alfred,Alfons,Alrik,Ansgar,Arne,Arnold,Arthur,Arvid,August,Axel,Asbjörn,Bernt,Bertil,Bjarne,Bosse,Börje,Calle,Carl,Crister,Ebbe,Einar,Erling,Eskil,Eugen,Evert,Enok,Enar,Elov,Elof,Folke,Frej,Fridtjof,Frans,Felix,Gottfrid,Gotthard,Greger,Göran,Gunnar,Halvar,Hampus,Hans,Hakon,Hendrik,Henning,Helmer,Harald,Inge,Ingemar,Ingolf,Ingvar,Isak,Ivar,Jan,Jarl,Jerker,Joel,Justus,Joseph,Jörgen,Kjell,Knut,Knud,Konstantin,Lasse,Ludvig,Lukas,Lauritz,Lars,Magnus,Mattis,Marcus,Manfred,Mikkel,Malkolm,Nils,Olaf,Olav,Olle,Oluf,Otto,Ove,Orvar,Peder,Pontus,Poul,Ragnar,Roald,Rasmus,Rurik,Rutger,Samson,Saul,Set,Sören,Sigismund,Sigmund,Tage,Tor,Tomas,Thor,Thorbjörn,Torvald,Torkel,Tore,Theodor,Urbanm Ulf,Vidar,Valfrid,Vincent,Yngwe,Örjan"
 
 #. [race]: id=Szwedzi, description=
 #: Eastern_Europe_at_War/units/units.cfg:59
-msgid ""
-"Alexander,Anders,Ake,Berk,Bjorn,Christian,Erik,Finn,Georg,Gustav,Herman,"
-"Jakob,Jonatan,Klemens,Mikael,Olle,Oskar,Patrik,Petter,Rudolf,Sigvard,Sten,"
-"Sven,Thomas,Ulrik,Victor"
-msgstr ""
+msgid "Alexander,Anders,Ake,Berk,Bjorn,Christian,Erik,Finn,Georg,Gustav,Herman,Jakob,Jonatan,Klemens,Mikael,Olle,Oskar,Patrik,Petter,Rudolf,Sigvard,Sten,Sven,Thomas,Ulrik,Victor"
+msgstr "Alexander,Anders,Ake,Berk,Bjorn,Christian,Erik,Finn,Georg,Gustav,Herman,Jakob,Jonatan,Klemens,Mikael,Olle,Oskar,Patrik,Petter,Rudolf,Sigvard,Sten,Sven,Thomas,Ulrik,Victor"
 
 #. [race]: id=Rosjanie, description=
 #: Eastern_Europe_at_War/units/units.cfg:64
 msgid "race^Russian"
-msgstr ""
+msgstr "Russe"
 
 #. [race]: id=Rosjanie, description=
 #: Eastern_Europe_at_War/units/units.cfg:65
 msgid "race+female^Rosjanka"
-msgstr ""
+msgstr "Russe"
 
 #. [race]: id=Rosjanie, description=
 #: Eastern_Europe_at_War/units/units.cfg:66
 msgid "race^Russians"
-msgstr ""
+msgstr "Russes"
 
 #. [race]: id=Rosjanie, description=
 #: Eastern_Europe_at_War/units/units.cfg:70
-msgid ""
-"Andrij,Antem,Bogdan,Dymitr,Gnat,Giorgij,Iwan,Cyryl,Lew,Oleg,Oleksandr,Roman,"
-"Stanislaw,Vadyn,Vladislaw,Volodimir,Jan,Jurij,Aleksander,Aleks,Kostia,Leonid,"
-"Stiepan,Igor,Fiodor,Grigorij,Wiaczeslaw,Borys"
-msgstr ""
+msgid "Andrij,Antem,Bogdan,Dymitr,Gnat,Giorgij,Iwan,Cyryl,Lew,Oleg,Oleksandr,Roman,Stanislaw,Vadyn,Vladislaw,Volodimir,Jan,Jurij,Aleksander,Aleks,Kostia,Leonid,Stiepan,Igor,Fiodor,Grigorij,Wiaczeslaw,Borys"
+msgstr "Andrij,Antem,Bogdan,Dymitr,Gnat,Giorgij,Iwan,Cyryl,Lew,Oleg,Oleksandr,Roman,Stanislaw,Vadyn,Vladislaw,Volodimir,Jan,Jurij,Aleksander,Aleks,Kostia,Leonid,Stiepan,Igor,Fiodor,Grigorij,Wiaczeslaw,Borys"
 
 #. [race]: id=Austriacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:76
 msgid "race^Austrian"
-msgstr ""
+msgstr "Autrichien"
 
 #. [race]: id=Austriacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:77
 msgid "race+female^Austriaczka"
-msgstr ""
+msgstr "Autrichienne"
 
 #. [race]: id=Austriacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:78
 msgid "race^Austrians"
-msgstr ""
+msgstr "Autrichiens"
 
 #. [race]: id=Austriacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:82
-msgid ""
-"Alexander,Amadeus,Bernard,Bruno,Erwin,Fabian,Florian,Franz,Isidor,Johann,"
-"Julian,Karl,Klemens,Leopold,Ludwig,Matias,Sebastian,Ábel,Benedek,Ervin,"
-"Ferdinand,Gabor,Gergely,Norbert,Rudolf,Adolf,Artur,Bohuslav,Dalimir,Emil,"
-"Eugen,Libor,Lubomir,Marek,Martin,Maximilian,Milan,Otakar,Pavel,Petr,Radoslav,"
-"Samuel,Stanislav,Vaclav,Vladan,Zdenko,Sigmund,Albrecht,Hans,Paul,Otto,"
-"Andreas,Julius,Uwe,Leon,Christian,Jörg,Jürgen,Ralf,Walter,Hermann,Wilhelm,"
-"Heinrich,Ernst,Karl,Friedrich,Konrad"
-msgstr ""
+msgid "Alexander,Amadeus,Bernard,Bruno,Erwin,Fabian,Florian,Franz,Isidor,Johann,Julian,Karl,Klemens,Leopold,Ludwig,Matias,Sebastian,Ábel,Benedek,Ervin,Ferdinand,Gabor,Gergely,Norbert,Rudolf,Adolf,Artur,Bohuslav,Dalimir,Emil,Eugen,Libor,Lubomir,Marek,Martin,Maximilian,Milan,Otakar,Pavel,Petr,Radoslav,Samuel,Stanislav,Vaclav,Vladan,Zdenko,Sigmund,Albrecht,Hans,Paul,Otto,Andreas,Julius,Uwe,Leon,Christian,Jörg,Jürgen,Ralf,Walter,Hermann,Wilhelm,Heinrich,Ernst,Karl,Friedrich,Konrad"
+msgstr "Alexander,Amadeus,Bernard,Bruno,Erwin,Fabian,Florian,Franz,Isidor,Johann,Julian,Karl,Klemens,Leopold,Ludwig,Matias,Sebastian,Ábel,Benedek,Ervin,Ferdinand,Gabor,Gergely,Norbert,Rudolf,Adolf,Artur,Bohuslav,Dalimir,Emil,Eugen,Libor,Lubomir,Marek,Martin,Maximilian,Milan,Otakar,Pavel,Petr,Radoslav,Samuel,Stanislav,Vaclav,Vladan,Zdenko,Sigmund,Albrecht,Hans,Paul,Otto,Andreas,Julius,Uwe,Leon,Christian,Jörg,Jürgen,Ralf,Walter,Hermann,Wilhelm,Heinrich,Ernst,Karl,Friedrich,Konrad"
 
 #. [race]: id=Austriacy, description=
 #: Eastern_Europe_at_War/units/units.cfg:83
-msgid ""
-"Alexander,Amadeus,Bernard,Bruno,Erwin,Fabian,Florian,Franz,Isidor,Johann,"
-"Julian,Karl,Klemens,Leopold,Ludwig,Matias,Sebastian"
-msgstr ""
+msgid "Alexander,Amadeus,Bernard,Bruno,Erwin,Fabian,Florian,Franz,Isidor,Johann,Julian,Karl,Klemens,Leopold,Ludwig,Matias,Sebastian"
+msgstr "Alexander,Amadeus,Bernard,Bruno,Erwin,Fabian,Florian,Franz,Isidor,Johann,Julian,Karl,Klemens,Leopold,Ludwig,Matias,Sebastian"
+
