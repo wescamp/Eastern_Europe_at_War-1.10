@@ -12,12 +12,12 @@ XVII Century Project : Eastern Europe at War :
 
  T³umaczenie ang (English translation) : Poliuks, Sagez, barowei 
 
- Testowanie (Play testing) : Sagez, inferno8, vul6, Poliuks, barowei, Icelordpl, ZawaPL, kazik, Apomaner, toman21, Richiter
+ Testowanie (Play testing) : Sagez, inferno8, vul6, Poliuks, barowei, Icelordpl, ZawaPL, kazik, Apomaner, toman21, Richiter, MIS
 
  Kampanie (Campaigns) : ?
 
  Mapy (Maps) : bs_grom, kazik, Richiter
 
- Wsparcie (Support) : Werian, Dragon_Warrior, rayden (Austriacy), Poliuks, Arturion, ZawaPL, barowei, Apomaner, toman21, Richiter, kazik, Icelordpl, Jarvis, Sylar, bs_grom, Zaku, Aureliusz777, Gotai, James Revan, MattDaka, Velensk, Filar, GeneralKuki, Temuchin Khan
+ Wsparcie (Support) : Werian, Dragon_Warrior, rayden (Austriacy), Poliuks, Arturion, ZawaPL, barowei, Apomaner, toman21, Richiter, kazik, Icelordpl, Jarvis, Sylar, bs_grom, Zaku, Aureliusz777, Gotai, James Revan, MattDaka, Velensk, Filar, GeneralKuki, Temuchin Khan, MIS, Madlok, Elensefar, kalfat, iBaLkiD, mauricepiesligeros, oxotnik
 
  1337 WESNOTH.COM.PL PWN 1337
